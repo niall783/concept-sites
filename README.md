@@ -2,9 +2,12 @@
 
 Website concepts, each in its own folder, for sharing, review and future development.
 
-| Concept | Source | Live preview |
+| Website | Source | Public demo |
 |---|---|---|
 | Shimna Travel | [shimna-travel](shimna-travel/) | [View concept](https://shimna-travel-concept.niall783.chatgpt.site/) |
+| Dominic McInerney Solicitors | [dominic-mcinerney](dominic-mcinerney/) | [View full demo](https://dominic-mcinerney-demo.niall783.chatgpt.site/) |
+| McBride Contractors | [mcbride-contractors](mcbride-contractors/) | [View full demo](https://mcbride-contractors-demo.niall783.chatgpt.site/) |
+| KPS Chartered Accountants | [kps-accountants](kps-accountants/) | [View full demo](https://kps-accountants-demo.niall783.chatgpt.site/) |
 
 ## Run a concept locally
 
