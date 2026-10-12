@@ -13,15 +13,10 @@ Website concepts, each in its own folder, for sharing, review and future develop
 | Hugh J O’Boyle | [hugh-j-oboyle](hugh-j-oboyle/) | [View full demo](https://hugh-j-oboyle-demo.niall783.chatgpt.site) |
 | KASE | [kase](kase/) | [View full demo](https://kase-demo.niall783.chatgpt.site) |
 | M. J. Sawey & Sons | [mj-sawey](mj-sawey/) | [View full demo](https://mj-sawey-demo.niall783.chatgpt.site) |
-
 | J & N Joinery Limited | [j-and-n-joinery](j-and-n-joinery/) | [View full demo](https://j-and-n-joinery-demo.niall783.chatgpt.site) |
-
 | Down Hire Centre Ltd | [down-hire-centre](down-hire-centre/) | [View full demo](https://down-hire-centre-demo.niall783.chatgpt.site) |
-
 | Spa Pallet Services Ltd | [spa-pallet-services](spa-pallet-services/) | [View full demo](https://spa-pallet-services-demo.niall783.chatgpt.site) |
-
 | Advantage Control Ltd | [advantage-control](advantage-control/) | [View full demo](https://advantage-control-demo.niall783.chatgpt.site) |
-
 | Travers Steel | [travers-steel](travers-steel/) | [View full demo](https://travers-steel-demo.niall783.chatgpt.site) |
 
 ## Run a concept locally
