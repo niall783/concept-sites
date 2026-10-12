@@ -1,0 +1,123 @@
+{
+  "settings": {
+    "mark": "CJ",
+    "descriptor": "Accountancy & taxation",
+    "eyebrow": "DOWNPATRICK \u00b7 COUNTY DOWN",
+    "headline": "Make sense<br>of what\u2019s next.",
+    "intro": "Accounts, tax and practical business support. A personal relationship with a family-owned accountancy firm in Downpatrick.",
+    "primary": "Speak with the team",
+    "proof": [
+      [
+        "Family-owned",
+        "A personal approach"
+      ],
+      [
+        "Business support",
+        "From startup to established firm"
+      ],
+      [
+        "County Down",
+        "Based in Downpatrick"
+      ]
+    ],
+    "storyTitle": "Understanding your business.<br>Looking beyond the figures.",
+    "rangeTitle": "The essentials, handled.<br>The next step, clearer.",
+    "galleryTitle": "Your business.<br>Your starting point.",
+    "aboutTitle": "A family firm.<br>A personal relationship.",
+    "name": "C Johnston & Co",
+    "phone": "028 4461 3829",
+    "tel": "+442844613829",
+    "email": null,
+    "address": "112a Market Street, Downpatrick, Co Down BT30 6LZ",
+    "secondary_offices": [],
+    "slug": "c-johnston",
+    "source": "https://www.cjohnstonandco.co.uk/",
+    "about": "C Johnston and Co is a family-owned accountancy business based in Downpatrick, serving small businesses in Downpatrick, Newcastle, Ballynahinch and the wider County Down area. The firm\u2019s published client sectors include agriculture, retail, construction, doctors, financial services, wholesalers and the motor trade. It supports sole traders, partnerships, limited companies and new businesses, with an emphasis on personal client relationships.",
+    "services": [
+      {
+        "title": "Accounts Preparation",
+        "slug": "accounts-preparation",
+        "short": "Accounts support for sole traders, partnerships and limited companies.",
+        "body": "Accounts support for sole traders, partnerships and limited companies. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Sole trader and partnership accounts",
+          "Farm accounts",
+          "Rental accounts",
+          "Accounting systems"
+        ],
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "image": ""
+      },
+      {
+        "title": "Bookkeeping & VAT",
+        "slug": "bookkeeping-vat",
+        "short": "Bookkeeping and VAT preparation are included in the firm\u2019s published services.",
+        "body": "Bookkeeping and VAT preparation are included in the firm\u2019s published services. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Bookkeeping",
+          "VAT returns",
+          "Suitable accounting systems"
+        ],
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "image": ""
+      },
+      {
+        "title": "Payroll & PAYE",
+        "slug": "payroll-paye",
+        "short": "Payroll preparation and wage/PAYE records for business clients.",
+        "body": "Payroll preparation and wage/PAYE records for business clients. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Payroll preparation",
+          "Wages and PAYE records"
+        ],
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "image": ""
+      },
+      {
+        "title": "Personal Tax & Self Assessment",
+        "slug": "personal-tax",
+        "short": "Support with personal tax returns and planning based on individual circumstances.",
+        "body": "Support with personal tax returns and planning based on individual circumstances. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Self assessment",
+          "Tax return forms",
+          "Personal tax planning",
+          "Income tax and capital gains tax",
+          "Residence, foreign income and property income"
+        ],
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "image": ""
+      },
+      {
+        "title": "Company Tax & Formation",
+        "slug": "company-tax",
+        "short": "Company formations and company taxation support for limited companies and new businesses.",
+        "body": "Company formations and company taxation support for limited companies and new businesses. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Company formations",
+          "Corporation tax returns",
+          "Company tax planning"
+        ],
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "image": ""
+      },
+      {
+        "title": "Estate Planning & Tax Enquiries",
+        "slug": "estate-tax",
+        "short": "The official service list includes inheritance tax, estate planning and tax investigation support.",
+        "body": "The official service list includes inheritance tax, estate planning and tax investigation support. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Inheritance tax planning",
+          "Estate planning",
+          "Tax investigation",
+          "Tax mitigation planning"
+        ],
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "image": ""
+      }
+    ]
+  },
+  "gallery": [],
+  "products": [],
+  "sectors": []
+}

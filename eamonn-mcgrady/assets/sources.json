@@ -1,0 +1,128 @@
+{
+  "checked": "2026-10-12",
+  "used_files": {
+    "image-03.jpg": "photos/image-03.jpg",
+    "image-09.jpg": "photos/image-09.jpg",
+    "image-08.jpg": "photos/image-08.jpg",
+    "image-05.jpg": "photos/image-05.jpg"
+  },
+  "rights": "Original business photographs retain their rights. Public source sharing does not grant an open image licence or business endorsement.",
+  "original_records": {
+    "retrieved": "2026-10-12",
+    "pages": [
+      "https://www.eamonnmcgrady.co.uk/",
+      "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+      "https://www.eamonnmcgrady.co.uk/contact"
+    ],
+    "assets": [
+      {
+        "url": "https://static.wixstatic.com/media/11062b_a84995cc8b024f4ea398f5744a56bc27~mv2.png",
+        "alt": "Facebook",
+        "source": "https://www.eamonnmcgrady.co.uk/contact",
+        "filename": "image-00.png",
+        "width": 201,
+        "height": 201,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/11062b_a0e069ac5fd747aba141bde679fb5c74~mv2.jpg",
+        "alt": "Detailed street view of London map",
+        "source": "https://www.eamonnmcgrady.co.uk/contact",
+        "filename": "image-01.jpg",
+        "width": 4200,
+        "height": 2770,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/7a2718_b070c3e23df44fb4b239c9a80e53da23~mv2.png",
+        "alt": "Eamonn McGrady Logo",
+        "source": "https://www.eamonnmcgrady.co.uk/contact",
+        "filename": "image-02.png",
+        "width": 732,
+        "height": 220,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/11062b_f91c262d508e47da8314867ab2d623f4~mv2.jpg",
+        "alt": "Filling Out Tax Form",
+        "source": "https://www.eamonnmcgrady.co.uk/",
+        "filename": "image-03.jpg",
+        "width": 5000,
+        "height": 3333,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/7a2718_e0243545b0f1455da4e37de5b6520b3e~mv2.jpg",
+        "alt": "accountant",
+        "source": "https://www.eamonnmcgrady.co.uk/",
+        "filename": "image-04.jpg",
+        "width": 850,
+        "height": 567,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/7a2718_0bf2e055e3ab4277a9d5d90d57aea695~mv2.jpg",
+        "alt": "business accountant",
+        "source": "https://www.eamonnmcgrady.co.uk/",
+        "filename": "image-05.jpg",
+        "width": 850,
+        "height": 567,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/7a2718_b3d4cc9f5efc44c083247305c96f64ca~mv2.png",
+        "alt": "5 stars",
+        "source": "https://www.eamonnmcgrady.co.uk/",
+        "filename": "image-06.png",
+        "width": 512,
+        "height": 512,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/7a2718_29b029bdefc648da9b14c17a181ecd80~mv2.jpg",
+        "alt": "review us on yell",
+        "source": "https://www.eamonnmcgrady.co.uk/contact",
+        "filename": "image-07.jpg",
+        "width": 850,
+        "height": 526,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/da73c50a72bc4ea4ba2fb7f20892a464.jpg",
+        "alt": "Calculator",
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "filename": "image-08.jpg",
+        "width": 5158,
+        "height": 3648,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/11062b_5b8ddf6cc04744d2ac098fa1eed7b03d~mv2.jpg",
+        "alt": "Accountant at Work",
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "filename": "image-09.jpg",
+        "width": 5000,
+        "height": 2415,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/7a2718_481a63d5b69349f492d555342f24a22f~mv2.jpg",
+        "alt": "suits hand shake",
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "filename": "image-10.jpg",
+        "width": 850,
+        "height": 567,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://static.wixstatic.com/media/11062b_c4420529e917449f8c755ee565ecebf1~mv2.jpg",
+        "alt": "Calculation",
+        "source": "https://www.eamonnmcgrady.co.uk/contact",
+        "filename": "image-11.jpg",
+        "width": 5000,
+        "height": 3333,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      }
+    ]
+  }
+}

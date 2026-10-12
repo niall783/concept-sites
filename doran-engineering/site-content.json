@@ -1,0 +1,218 @@
+{
+  "settings": {
+    "mark": "DPE",
+    "descriptor": "Precision engineering",
+    "eyebrow": "NEWCASTLE \u00b7 NORTHERN IRELAND",
+    "headline": "Precision in the part.<br>Confidence in the process.",
+    "intro": "CNC machining, inspection and finishing support for aerospace, medical and motorsport applications.",
+    "primary": "Discuss your requirements",
+    "proof": [
+      [
+        "CNC machining",
+        "Prototype and batch work"
+      ],
+      [
+        "Inspection",
+        "3D measurement capability"
+      ],
+      [
+        "Newcastle",
+        "Based in County Down"
+      ]
+    ],
+    "storyTitle": "From the drawing.<br>To the finished component.",
+    "rangeTitle": "Capability, through<br>the complete process.",
+    "galleryTitle": "Made for the application.",
+    "aboutTitle": "Family roots.<br>Engineering focus.",
+    "name": "Doran Precision Engineering Ltd",
+    "phone": "028 4372 2975",
+    "tel": "+442843722975",
+    "email": "info@doranengineering.com",
+    "address": "84B Dundrum Road Industrial Estate, Newcastle, Northern Ireland, BT33 0LN",
+    "slug": "doran-engineering",
+    "source": "https://www.doranengineering.com/",
+    "about": "Doran Precision Engineering is a family-founded business based in Newcastle, County Down. It manufactures precision components for aerospace, medical and motorsport applications, with batch production, rapid response and rework services. The company\u2019s published history dates its founding to 1993.",
+    "services": [
+      {
+        "title": "CNC Machining",
+        "slug": "cnc-machining",
+        "short": "Precision components shaped to your requirements.",
+        "body": "Doran Precision Engineering manufactures precision components using CNC machining. Its published capabilities include 5-axis machining for small batches and prototypes. Send your drawings and application requirements to discuss a suitable manufacturing approach.",
+        "points": [
+          "CNC machining",
+          "Small batches",
+          "Prototype work"
+        ],
+        "source": "https://www.doranengineering.com/capabilities/",
+        "image": "Capabilities.jpg"
+      },
+      {
+        "title": "Batch Production",
+        "slug": "batch-production",
+        "short": "Manufacturing support for repeat component requirements.",
+        "body": "The company\u2019s published service offer includes batch production for precision components. Discuss drawings, materials, quantities and delivery requirements with the team.",
+        "points": [
+          "Component drawings",
+          "Batch quantities",
+          "Production requirements"
+        ],
+        "source": "https://www.doranengineering.com/capabilities/",
+        "image": "dark-overlay-slide-1.jpg"
+      },
+      {
+        "title": "Rapid Response & Rework",
+        "slug": "rapid-response-rework",
+        "short": "Support for time-sensitive manufacturing requirements.",
+        "body": "Doran lists rapid response and rework among its services. Contact the team with the part requirements and requested timescale so feasibility and availability can be assessed.",
+        "points": [
+          "Rapid response enquiries",
+          "Rework requirements",
+          "Feasibility discussion"
+        ],
+        "source": "https://www.doranengineering.com/capabilities/",
+        "image": "Capabilities.jpg"
+      },
+      {
+        "title": "Inspection",
+        "slug": "inspection",
+        "short": "Measurement and reporting for manufactured components.",
+        "body": "The published capabilities include 3D measurement using a FARO Gage measuring arm and tailored inspection reports for first article inspection. Confirm the reporting requirements for your project with the team.",
+        "points": [
+          "3D measurement",
+          "Inspection reports",
+          "First article requirements"
+        ],
+        "source": "https://www.doranengineering.com/capabilities/",
+        "image": "fargo.jpg"
+      },
+      {
+        "title": "After Production Services",
+        "slug": "finishing",
+        "short": "Coordinated finishing through specialist providers.",
+        "body": "Doran lists a range of finishing solutions coordinated through third parties, including powder coating, plating, chemical film, anodising and passivation. Wire insert fitment is also listed. Discuss the finish and documentation needed for your components.",
+        "points": [
+          "Third-party finishing",
+          "Wire insert fitment",
+          "Application-specific requirements"
+        ],
+        "source": "https://www.doranengineering.com/capabilities/",
+        "image": "coiling.jpg"
+      },
+      {
+        "title": "Materials",
+        "slug": "materials",
+        "short": "Discuss the material your component requires.",
+        "body": "Published machining materials include aluminium grades 6082, 6061, 7075 and 2024, stainless steel, nylon, Delrin and black acetal. Confirm the required grade and current capability with the team before placing an order.",
+        "points": [
+          "Aluminium",
+          "Stainless steel",
+          "Engineering plastics"
+        ],
+        "source": "https://www.doranengineering.com/capabilities/",
+        "image": "Capabilities.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "Precision machined components",
+      "image": "Capabilities.jpg",
+      "alt": "Precision machined components",
+      "category": "Machining",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-1"
+    },
+    {
+      "title": "FARO Gage measurement arm",
+      "image": "fargo.jpg",
+      "alt": "FARO Gage measurement arm",
+      "category": "Inspection",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-2"
+    },
+    {
+      "title": "Threaded wire inserts pictured on the official website",
+      "image": "coiling.jpg",
+      "alt": "Threaded wire inserts pictured on the official website",
+      "category": "Finishing",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-3"
+    },
+    {
+      "title": "Machining equipment pictured on the official website",
+      "image": "dark-overlay-slide-1.jpg",
+      "alt": "Machining equipment pictured on the official website",
+      "category": "Machining",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-4"
+    },
+    {
+      "title": "Aircraft illustrating aerospace applications",
+      "image": "areoplane.jpg",
+      "alt": "Aircraft illustrating aerospace applications",
+      "category": "Aerospace",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-5"
+    },
+    {
+      "title": "Engine components illustrating motorsport applications",
+      "image": "pexels-photo-190574.jpg",
+      "alt": "Engine components illustrating motorsport applications",
+      "category": "Motorsport",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-6"
+    },
+    {
+      "title": "Laboratory equipment illustrating medical applications",
+      "image": "clinic-doctor-health-hospital.jpg",
+      "alt": "Laboratory equipment illustrating medical applications",
+      "category": "Medical",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.doranengineering.com/",
+      "slug": "gallery-7"
+    }
+  ],
+  "products": [],
+  "sectors": [
+    {
+      "title": "Aerospace",
+      "slug": "sector-aerospace",
+      "short": "Precision component manufacture for aerospace applications.",
+      "body": "Precision component manufacture for aerospace applications. Contact Doran with drawings and project requirements to discuss the components you need.",
+      "source": "https://www.doranengineering.com/",
+      "image": "areoplane.jpg",
+      "points": []
+    },
+    {
+      "title": "Medical",
+      "slug": "sector-medical",
+      "short": "Precision component manufacture for medical applications.",
+      "body": "Precision component manufacture for medical applications. Contact Doran with drawings and project requirements to discuss the components you need.",
+      "source": "https://www.doranengineering.com/",
+      "image": "clinic-doctor-health-hospital.jpg",
+      "points": []
+    },
+    {
+      "title": "Motorsport",
+      "slug": "sector-motorsport",
+      "short": "Precision component manufacture for motorsport applications.",
+      "body": "Precision component manufacture for motorsport applications. Contact Doran with drawings and project requirements to discuss the components you need.",
+      "source": "https://www.doranengineering.com/",
+      "image": "pexels-photo-190574.jpg",
+      "points": []
+    }
+  ]
+}

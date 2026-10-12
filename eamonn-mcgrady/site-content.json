@@ -1,0 +1,149 @@
+{
+  "settings": {
+    "mark": "EM",
+    "descriptor": "Chartered accountants",
+    "eyebrow": "DOWNPATRICK & NEWCASTLE",
+    "headline": "Clear accounts.<br>A confident next step.",
+    "intro": "Accountancy, audit and tax support for businesses, charities and individuals. Personal advice, rooted in County Down.",
+    "primary": "Arrange a conversation",
+    "proof": [
+      [
+        "Two offices",
+        "Downpatrick and Newcastle"
+      ],
+      [
+        "30+ years",
+        "Experience in accountancy"
+      ],
+      [
+        "Personal support",
+        "For businesses and individuals"
+      ]
+    ],
+    "storyTitle": "The numbers matter.<br>So does the relationship.",
+    "rangeTitle": "Support for the business.<br>And the person behind it.",
+    "galleryTitle": "Advice for your<br>stage of business.",
+    "aboutTitle": "Local knowledge.<br>Personal attention.",
+    "name": "Eamonn P McGrady & Co",
+    "phone": "028 4461 4340",
+    "tel": "+442844614340",
+    "email": "info@eamonnmcgrady.co.uk",
+    "address": "4\u20136 Market Street, Downpatrick BT30 6TH",
+    "secondary_offices": [
+      {
+        "name": "Newcastle office",
+        "address": "2 Downs Road, Newcastle BT33 0AG",
+        "phone": "028 4372 6893",
+        "tel": "+442843726893",
+        "email": "info@eamonnmcgrady.co.uk",
+        "alternate_email": "eamonnmcgrady@yahoo.com"
+      }
+    ],
+    "hours": "Monday\u2013Friday, 09:00\u201317:00",
+    "facebook": "https://www.facebook.com/Eamonn-P-McGrady-Co-1310649808973851/",
+    "slug": "eamonn-mcgrady",
+    "source": "https://www.eamonnmcgrady.co.uk/",
+    "about": "Eamonn P McGrady & Co is a locally owned chartered accountancy firm with offices in Downpatrick and Newcastle, County Down. Its published services cover accountancy, audit and taxation for individuals, businesses and charities. The firm describes more than 30 years of experience and a personal service tailored to each client.",
+    "services": [
+      {
+        "title": "Accounts Preparation",
+        "slug": "accounts-preparation",
+        "short": "Accounts preparation and financial reporting for individuals, businesses and charities.",
+        "body": "Accounts preparation and financial reporting for individuals, businesses and charities. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Accounts preparation",
+          "Financial reporting",
+          "Accounts management"
+        ],
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "image": "image-09.jpg"
+      },
+      {
+        "title": "Taxation Services",
+        "slug": "taxation-services",
+        "short": "Tax services and planning support covering personal and company circumstances.",
+        "body": "Tax services and planning support covering personal and company circumstances. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Self-assessment advice",
+          "Corporation tax advice",
+          "Inheritance tax advice",
+          "Tax planning"
+        ],
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "image": "image-03.jpg"
+      },
+      {
+        "title": "Payroll Services",
+        "slug": "payroll-services",
+        "short": "Payroll processing is included in the firm\u2019s published accountancy service range.",
+        "body": "Payroll processing is included in the firm\u2019s published accountancy service range. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Payroll processing",
+          "Discuss the needs of your business"
+        ],
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "image": "image-08.jpg"
+      },
+      {
+        "title": "Audit Services",
+        "slug": "audit-services",
+        "short": "Audit services are listed within the firm\u2019s support for businesses and charities.",
+        "body": "Audit services are listed within the firm\u2019s support for businesses and charities. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Audits",
+          "Financial reporting"
+        ],
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "image": "image-09.jpg"
+      },
+      {
+        "title": "Business Advice",
+        "slug": "business-advice",
+        "short": "Business advice and business plans for clients seeking accountancy support.",
+        "body": "Business advice and business plans for clients seeking accountancy support. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Business plans",
+          "Accounts management"
+        ],
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "image": "image-05.jpg"
+      },
+      {
+        "title": "Start-up Advice",
+        "slug": "start-up-advice",
+        "short": "Support for the preliminary stages of starting a business.",
+        "body": "Support for the preliminary stages of starting a business. Contact the team to discuss your circumstances and the support you need.",
+        "points": [
+          "Start-up advice",
+          "Business plans"
+        ],
+        "source": "https://www.eamonnmcgrady.co.uk/accounting-tax-services",
+        "image": "image-09.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "Illustrative accountant reviewing financial documents",
+      "image": "image-09.jpg",
+      "alt": "Illustrative accountant reviewing financial documents",
+      "category": "Service",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.eamonnmcgrady.co.uk/",
+      "slug": "gallery-2"
+    },
+    {
+      "title": "Illustrative calculator on financial reports",
+      "image": "image-08.jpg",
+      "alt": "Illustrative calculator on financial reports",
+      "category": "Service",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.eamonnmcgrady.co.uk/",
+      "slug": "gallery-3"
+    }
+  ],
+  "products": [],
+  "sectors": []
+}

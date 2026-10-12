@@ -1,0 +1,112 @@
+{
+  "checked": "2026-10-12",
+  "used_files": {
+    "Capabilities.jpg": "Capabilities.jpg",
+    "fargo.jpg": "fargo.jpg",
+    "coiling.jpg": "coiling.jpg",
+    "dark-overlay-slide-1.jpg": "dark-overlay-slide-1.jpg",
+    "areoplane.jpg": "areoplane.jpg",
+    "pexels-photo-190574.jpg": "pexels-photo-190574.jpg",
+    "clinic-doctor-health-hospital.jpg": "clinic-doctor-health-hospital.jpg"
+  },
+  "rights": "Original business photographs retain their rights. Public source sharing does not grant an open image licence or business endorsement.",
+  "original_records": {
+    "retrieved": "2026-10-13",
+    "retrieval_note": "HTTP page requests returned403. Official page contents read via web tool; public upload photos accessible over HTTP.",
+    "assets": [
+      {
+        "file": "Capabilities.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/10/Capabilities.jpg",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "fargo.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/10/fargo.jpg",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "coiling.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/10/coiling.jpg",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "home-large-logo.png",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/home-large-logo.png",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "imagegen.png",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/imagegen.png",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "aeroplane-1-1.png",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/aeroplane-1-1.png",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "car-fill-from-frontal-view.png",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/car-fill-from-frontal-view.png",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "hospital-symbol.png",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/hospital-symbol.png",
+        "attribution": "Published on official Doran website, rights remain with original owners; production use requires permission."
+      },
+      {
+        "file": "DPE-Logo.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/12/DPE-Logo.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      },
+      {
+        "file": "dark-overlay-slide-1.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/dark-overlay-slide-1.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      },
+      {
+        "file": "parallex-image-black-overlay.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/parallex-image-black-overlay.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      },
+      {
+        "file": "slider-2.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/slider-2.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      },
+      {
+        "file": "areoplane.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/areoplane.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      },
+      {
+        "file": "pexels-photo-190574.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/pexels-photo-190574.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      },
+      {
+        "file": "clinic-doctor-health-hospital.jpg",
+        "url": "https://www.doranengineering.com/wp-content/uploads/2018/09/clinic-doctor-health-hospital.jpg",
+        "attribution": "Official business published image; rights remain with original owners. Browser download manifest supplied by parent."
+      }
+    ],
+    "pages": [
+      {
+        "url": "https://www.doranengineering.com/",
+        "text": "Family business; precision components for aerospace, medical and motorsport. Batch production, rapid response and rework."
+      },
+      {
+        "url": "https://www.doranengineering.com/about-us/",
+        "text": "1993 founding; timeline ends2018. Historical2018 entry26CNC3-axis,3x5axisUMCs,18people; do not use as currentcounts."
+      },
+      {
+        "url": "https://www.doranengineering.com/capabilities/",
+        "text": "Parts up to2mx1mx0.7m; 5axis machining small batches and prototypes. Publishedmaterials6082/6061/7075/2024 aluminium, stainlesssteel, nylon/Delrin/blackacetal. FAROGage inspection for FAI; thirdparty finishing wireinserts,powdercoating,plating,clearchemfilm,anodising,passivation."
+      },
+      {
+        "url": "https://www.doranengineering.com/contact-us/",
+        "text": "02843722975, info@doranengineering.com,84BDundrumRoadIndustrialEstate NewcastleBT330LN."
+      }
+    ]
+  }
+}

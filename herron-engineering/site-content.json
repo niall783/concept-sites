@@ -1,0 +1,1059 @@
+{
+  "settings": {
+    "mark": "HE",
+    "descriptor": "Agricultural & industrial equipment",
+    "eyebrow": "CASTLEWELLAN \u00b7 SINCE 1989",
+    "headline": "Built for the load.<br>Ready for the work.",
+    "intro": "Agricultural and industrial trailers, slurry tankers and spreading equipment. Designed and manufactured in County Down.",
+    "primary": "Discuss your next machine",
+    "proof": [
+      [
+        "Since 1989",
+        "Manufacturing in County Down"
+      ],
+      [
+        "Made in-house",
+        "From design to final assembly"
+      ],
+      [
+        "Agricultural & industrial",
+        "Equipment for demanding work"
+      ]
+    ],
+    "storyTitle": "Practical engineering.<br>From the ground up.",
+    "rangeTitle": "A range built around<br>the work you do.",
+    "galleryTitle": "Work. Detail. Possibility.",
+    "aboutTitle": "Built in County Down.<br>Made to work.",
+    "name": "Herron Engineering Ltd",
+    "phone": "028 4065 0204",
+    "tel": "+442840650204",
+    "email": "info@herronengineering.co.uk",
+    "sales_email": "sales@herronengineering.co.uk",
+    "address": "15 Herrons Road, Leitrim, Castlewellan, Co. Down, BT31 9SR, Northern Ireland",
+    "hours": "Monday\u2013Thursday 08:30\u201317:30; Friday 08:30\u201316:30; Saturday and Sunday closed",
+    "facebook": "https://facebook.com/herrontrailers",
+    "instagram": "https://instagram.com/herronengineering/",
+    "youtube": "https://youtube.com/channel/UCzCq9BRw21KGOc1A-d5Xv9g",
+    "source": "https://herronengineering.co.uk/",
+    "slug": "herron-engineering",
+    "about": "Established by William Herron in 1989 and incorporated in 2005, Herron Engineering manufactures agricultural and industrial trailers, slurry tankers and spreading equipment in County Down. Products are designed, plasma cut, folded, welded and fitted in-house, with bespoke configurations available. Equipment is shot-blasted and finished with two-pack polyurethane paint.",
+    "services": [
+      {
+        "title": "Silage trailers",
+        "slug": "silage-trailers",
+        "short": "Built for farmers and contractors.",
+        "body": "H1 and H2 silage trailers offer a choice of axle layouts and carrying capacities. Discuss the loads, terrain and unloading requirements with the sales team.",
+        "points": [
+          "H1 range: 9\u201318 tonnes",
+          "H2 tandem: 14\u201320 tonnes",
+          "H2 tri-axle: 24\u201326 tonnes"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/silage-trailers/",
+        "image": "HERRON-H2-GRAIN-SILAGE-TRAILER_WEB-850x570.jpg",
+        "models": [
+          {
+            "text": "H1 Silage Trailer",
+            "url": "https://herronengineering.co.uk/products/h1-grain-silage/"
+          },
+          {
+            "text": "H2 Silage Trailer",
+            "url": "https://herronengineering.co.uk/products/h2-fast-tow-grain-silage-trailer/"
+          }
+        ]
+      },
+      {
+        "title": "Grain and root crop trailers",
+        "slug": "grain-trailers-root-crop-trailer",
+        "short": "Transport crops with a trailer specified around your work.",
+        "body": "H1 and H2 crop trailer ranges combine different capacities with configuration options for individual customers and contractors.",
+        "points": [
+          "H1 range: 9\u201314 tonnes",
+          "H2 range: 14\u201326 tonnes",
+          "Configuration and optional extras"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/grain-trailers-root-crop-trailer/",
+        "image": "HERRON-GRAIN-TRAILER_01_WEB-782x570.jpg",
+        "models": [
+          {
+            "text": "H1 Grain & Root Crops Trailers",
+            "url": "https://herronengineering.co.uk/products/h1-grain-trailers/"
+          },
+          {
+            "text": "H2 Grain Trailers",
+            "url": "https://herronengineering.co.uk/products/h2-grain-trailers/"
+          }
+        ]
+      },
+      {
+        "title": "Dump trailers",
+        "slug": "dump-trailers",
+        "short": "Agricultural and industrial tipping solutions.",
+        "body": "HDT and H2 dump trailers support agricultural and construction work. The range includes the H2 beavertail rear loader, combining a dump trailer and low loader.",
+        "points": [
+          "HDT agricultural models",
+          "HDT industrial models",
+          "H2 wide bottom models",
+          "12-tonne H2 beavertail rear loader"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/dump-trailers/",
+        "image": "HERRON-H2-BRL-DUMP-TRAILER-04-850x570.jpg",
+        "models": [
+          {
+            "text": "12 Ton H2 BRL Beavertail Rear Loader",
+            "url": "https://herronengineering.co.uk/products/12-ton-h2-beavertail-rear-loader-dump-trailer/"
+          },
+          {
+            "text": "HDT Agri Dump Trailer",
+            "url": "https://herronengineering.co.uk/products/agri-dump-trailer/"
+          },
+          {
+            "text": "HDT Industrial Dump Trailer",
+            "url": "https://herronengineering.co.uk/products/industrial-dump-trailer/"
+          },
+          {
+            "text": "H2 Wide Bottom Dump Trailer",
+            "url": "https://herronengineering.co.uk/products/h2-wide-bottom-dump-trailer/"
+          }
+        ]
+      },
+      {
+        "title": "Low loader trailers",
+        "slug": "lowloader-trailers",
+        "short": "Transport plant, machinery and equipment.",
+        "body": "Agricultural and industrial low loaders provide a choice of load capacities and configuration options. Contact the sales team about machinery dimensions and intended use.",
+        "points": [
+          "Agricultural low loaders",
+          "Industrial low loaders",
+          "Published family range: 10\u201324 tonnes"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/lowloader-trailers/",
+        "image": "HERRON-AGRI-TANDEM-LOW-LOADER2-850-x-570-850x570.jpg",
+        "models": [
+          {
+            "text": "Agri Low Loader",
+            "url": "https://herronengineering.co.uk/products/agri-low-loader-trailer/"
+          },
+          {
+            "text": "Industrial Low Loader",
+            "url": "https://herronengineering.co.uk/products/industrial-low-loader/"
+          }
+        ]
+      },
+      {
+        "title": "Flat bed and bale trailers",
+        "slug": "flat-bed-trailers",
+        "short": "Flexible transport for bales and other loads.",
+        "body": "Agricultural and industrial flatbeds are offered for moving bales, boxes, pallets and materials, with different capacities and optional equipment.",
+        "points": [
+          "Agricultural flatbed / bale trailer",
+          "Industrial flatbed trailer",
+          "Published family range: 10\u201324 tonnes"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/flat-bed-trailers/",
+        "image": "HERRON-IND-BALE-TRAILER_01-850-x-570.jpg",
+        "models": [
+          {
+            "text": "Flatbed / Bale Trailer",
+            "url": "https://herronengineering.co.uk/products/flatbed-bale-trailer/"
+          },
+          {
+            "text": "Industrial Flatbed Trailer",
+            "url": "https://herronengineering.co.uk/products/industrial-flatbed-trailer/"
+          }
+        ]
+      },
+      {
+        "title": "Dropside tipping trailers",
+        "slug": "drop-side-trailers",
+        "short": "Compact and heavy duty multipurpose trailers.",
+        "body": "Choose between the compact dropside range and heavy duty tipping trailers. Configuration options support a range of agricultural uses.",
+        "points": [
+          "Compact dropside models: 2.5\u20136.5 tonnes",
+          "Heavy duty models: 9\u201315 tonnes",
+          "Axle, wheel and equipment options"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/drop-side-trailers/",
+        "image": "HERRON-BASIC-DROPSIDE_01_850x570.jpg",
+        "models": [
+          {
+            "text": "Dropside Tipping Trailer",
+            "url": "https://herronengineering.co.uk/products/dropside-tipping-trailer/"
+          },
+          {
+            "text": "Heavy Duty Tipping Trailer",
+            "url": "https://herronengineering.co.uk/products/heavy-duty-tipping-trailer/"
+          }
+        ]
+      },
+      {
+        "title": "Feeding trailers",
+        "slug": "feeding-trailers",
+        "short": "Purpose-built trailers for livestock feeding.",
+        "body": "The feeding range includes cattle trailers with diagonal bars and sheep trailers with a cone-type floor. Ask about sizes and finishing options.",
+        "points": [
+          "Cattle range: 14 ft and 20 ft",
+          "Sheep range: 12 ft 6 in and 16 ft 6 in",
+          "Manufactured and finished in-house"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/feeding-trailers/",
+        "image": "HERRON-Cattle-Feeding-Trailer_01_web-850x570.jpg",
+        "models": [
+          {
+            "text": "Sheep Feeding Trailer",
+            "url": "https://herronengineering.co.uk/products/sheep-feeding-trailer/"
+          },
+          {
+            "text": "Cattle Feeding Trailer",
+            "url": "https://herronengineering.co.uk/products/cattle-feeding-trailer/"
+          }
+        ]
+      },
+      {
+        "title": "Trailer optional extras",
+        "slug": "trailer-options",
+        "short": "Configure equipment for your operation.",
+        "body": "A wide range of trailer options covers hitches, braking systems, wheels, covers, loading equipment and storage. Compatibility should be confirmed for the selected trailer.",
+        "points": [
+          "Hitches and brakes",
+          "Wheels and tyres",
+          "Loading and unloading equipment",
+          "Storage and covers"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/trailer-options/",
+        "image": "K-80-Spoon-850-x-570_01-285x275.jpg",
+        "models": [
+          {
+            "text": "K-80 Adjustable Spoon Hitch",
+            "url": "https://herronengineering.co.uk/products/k-80-adjustable-spoon-hitch-2/"
+          },
+          {
+            "text": "50mm Bolt On Adjustable Hitch",
+            "url": "https://herronengineering.co.uk/products/bolt-adjustable-hitch/"
+          },
+          {
+            "text": "Swivel Drawbar Hitch",
+            "url": "https://herronengineering.co.uk/products/swivel-drawbar-hitch/"
+          },
+          {
+            "text": "Air / Oil Dual LSV Braking System",
+            "url": "https://herronengineering.co.uk/products/air-oil-dual-braking-system/"
+          },
+          {
+            "text": "Hyd. Load Sensing Valve",
+            "url": "https://herronengineering.co.uk/products/air-hyd-load-sensing-valve/"
+          },
+          {
+            "text": "Euro Electric Brake Fail System",
+            "url": "https://herronengineering.co.uk/products/euro-electric-brake-fail-system/"
+          },
+          {
+            "text": "Multi Stage Ram And Unprop Body Stay Bar",
+            "url": "https://herronengineering.co.uk/products/multi-stage-ram-and-unprop-body-stay-bar/"
+          },
+          {
+            "text": "Perspex Front Window",
+            "url": "https://herronengineering.co.uk/products/perspex-front-window/"
+          },
+          {
+            "text": "Easy Sheet At Silage Level",
+            "url": "https://herronengineering.co.uk/products/easy-sheet/"
+          },
+          {
+            "text": "Front Work Platform",
+            "url": "https://herronengineering.co.uk/products/trailer-options/"
+          },
+          {
+            "text": "Lever Grain Chute",
+            "url": "https://herronengineering.co.uk/products/lever-grain-chute/"
+          },
+          {
+            "text": "Side Tool Box",
+            "url": "https://herronengineering.co.uk/products/side-tool-box/"
+          },
+          {
+            "text": "Screw Clamps For Sludge Door",
+            "url": "https://herronengineering.co.uk/products/screw-clamps-for-sludge-door/"
+          },
+          {
+            "text": "Silage Door Floor Latch System",
+            "url": "https://herronengineering.co.uk/products/silage-door-floor-latch-system/"
+          },
+          {
+            "text": "Push Bar",
+            "url": "https://herronengineering.co.uk/products/push-bar/"
+          },
+          {
+            "text": "Forward Facing Camera",
+            "url": "https://herronengineering.co.uk/products/forwards-facing-camera/"
+          },
+          {
+            "text": "Rear Facing Camera",
+            "url": "https://herronengineering.co.uk/products/rear-facing-camera/"
+          },
+          {
+            "text": "Diesel Tank",
+            "url": "https://herronengineering.co.uk/products/diesel-tank/"
+          },
+          {
+            "text": "Tar Chutes",
+            "url": "https://herronengineering.co.uk/products/tar-chutes/"
+          },
+          {
+            "text": "Low Loader Outriggers",
+            "url": "https://herronengineering.co.uk/products/low-loader-outriggers/"
+          },
+          {
+            "text": "Low Loader Side Storage Box",
+            "url": "https://herronengineering.co.uk/products/low-loader-side-box/"
+          },
+          {
+            "text": "Low Loader Spring Loaded Ramps",
+            "url": "https://herronengineering.co.uk/products/low-loader-flip-ramps/"
+          },
+          {
+            "text": "Hydraulic Flip Ramps",
+            "url": "https://herronengineering.co.uk/products/hydraulic-flip-ramps/"
+          },
+          {
+            "text": "Bale Racks",
+            "url": "https://herronengineering.co.uk/products/front-bale-rack/"
+          },
+          {
+            "text": "Low Loader Galvanised Telescopic Bars",
+            "url": "https://herronengineering.co.uk/products/low-loader-galvanised-telescopic-bars/"
+          },
+          {
+            "text": "Lashing Ring",
+            "url": "https://herronengineering.co.uk/products/lashing-ring/"
+          },
+          {
+            "text": "Low Loader Top Link Ramp Stay Bar",
+            "url": "https://herronengineering.co.uk/products/low-loader-top-link-ramp-stay-bar/"
+          },
+          {
+            "text": "Box and Bale Pusher",
+            "url": "https://herronengineering.co.uk/products/box-and-bale-pusher/"
+          },
+          {
+            "text": "Root Crop Side Step",
+            "url": "https://herronengineering.co.uk/products/root-crop-side-step/"
+          },
+          {
+            "text": "Bale Extensions",
+            "url": "https://herronengineering.co.uk/products/bale-extensions/"
+          },
+          {
+            "text": "Dropside Front Loader System",
+            "url": "https://herronengineering.co.uk/products/dropside-front-loader-system/"
+          },
+          {
+            "text": "Jack Stand",
+            "url": "https://herronengineering.co.uk/products/jack-stand/"
+          },
+          {
+            "text": "Dual Wheels",
+            "url": "https://herronengineering.co.uk/products/dual-wheels/"
+          },
+          {
+            "text": "Super Single Wheels",
+            "url": "https://herronengineering.co.uk/products/super-single-wheels/"
+          },
+          {
+            "text": "Alliance / Tianli Floatation Wheels",
+            "url": "https://herronengineering.co.uk/products/hbi-floatation-wheels/"
+          },
+          {
+            "text": "BKT Floatation Wheels",
+            "url": "https://herronengineering.co.uk/products/floatation-wheels/"
+          },
+          {
+            "text": "HBI Aircraft Wheels",
+            "url": "https://herronengineering.co.uk/products/aircraft-tyres/"
+          }
+        ]
+      },
+      {
+        "title": "Slurry tankers",
+        "slug": "slurry-tankers",
+        "short": "Single and tandem axle recessed vacuum tankers.",
+        "body": "Tankers are fabricated on-site with configuration options for agricultural transport and spreading. Choose the right capacity and attachments with the team.",
+        "points": [
+          "Single axle: 1750\u20132800 gallons",
+          "Tandem axle: 2800\u20134000 gallons",
+          "Filling, braking and wheel options"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/slurry-tankers/",
+        "image": "HERRON-2250g-SLURRY-TANKER__01-850x570-850x570.jpg",
+        "models": [
+          {
+            "text": "Single Axle Slurry Tankers",
+            "url": "https://herronengineering.co.uk/products/single-axle-slurry-tankers/"
+          },
+          {
+            "text": "Tandem Axle Slurry Tankers",
+            "url": "https://herronengineering.co.uk/products/tandem-axle-slurry-tankers/"
+          }
+        ]
+      },
+      {
+        "title": "Slurry spreading",
+        "slug": "slurry-spreading",
+        "short": "Equipment for slurry distribution and transfer.",
+        "body": "The published range includes a trailing shoe / dribble bar and a hydraulically operated overhedge boom for tanker-to-tanker transfer.",
+        "points": [
+          "7.4m trailing shoe / dribble bar",
+          "Overhedge boom",
+          "Discuss tanker compatibility"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/slurry-spreading/",
+        "image": "HERRON-TRAILING-SHOE_01_WEB-e1524733821839.jpg",
+        "models": [
+          {
+            "text": "Trailing Shoe / Dribble Bar",
+            "url": "https://herronengineering.co.uk/products/142/"
+          },
+          {
+            "text": "Overhedge Boom",
+            "url": "https://herronengineering.co.uk/products/overhedge-boom-2/"
+          }
+        ]
+      },
+      {
+        "title": "Tanker optional extras",
+        "slug": "tanker-options",
+        "short": "Specify the tanker around your working needs.",
+        "body": "Pump systems, filling equipment, visibility aids and attachments are listed as tanker options. Confirm model suitability and final specification with Herron Engineering.",
+        "points": [
+          "Pump systems",
+          "Auto-fill and DCI arms",
+          "Sight glasses and tubes",
+          "Lighting, hitches and wheels"
+        ],
+        "source": "https://herronengineering.co.uk/product/types/tanker-options/",
+        "image": "DUAL-PUMP-SYSTEM_FERRARI-SLUDGIGATOR-PUMP-AND-HYD-VACUUM-MOTOR_850-x-570-285x275.jpg",
+        "models": [
+          {
+            "text": "Dual Pump System",
+            "url": "https://herronengineering.co.uk/products/dual-pump-system-ferrari-sludgigator-pump-hyd-vacuum-motor/"
+          },
+          {
+            "text": "Garda Pump \u2013 Soft Start Gear Box",
+            "url": "https://herronengineering.co.uk/products/soft-start-gear-box-hyd-changeover-for-garda-pumps/"
+          },
+          {
+            "text": "Hydraulic Changeover For Vacuum Pumps",
+            "url": "https://herronengineering.co.uk/products/hyd-changeover-for-vacuum-pumps/"
+          },
+          {
+            "text": "Double T-Piece Pipe System",
+            "url": "https://herronengineering.co.uk/products/double-t-piece-pipe-system/"
+          },
+          {
+            "text": "Industrial KPS Water Cooled Vacuum Pump System",
+            "url": "https://herronengineering.co.uk/products/water-cooled-pump/"
+          },
+          {
+            "text": "Wide Angle PTO Shaft",
+            "url": "https://herronengineering.co.uk/products/wide-angle-pto-shaft/"
+          },
+          {
+            "text": "Air Brake Sensing Valve",
+            "url": "https://herronengineering.co.uk/products/air-brake-sensing-valve/"
+          },
+          {
+            "text": "Stepped Axle",
+            "url": "https://herronengineering.co.uk/products/stepped-axle/"
+          },
+          {
+            "text": "Steering Axle",
+            "url": "https://herronengineering.co.uk/products/steering-axle/"
+          },
+          {
+            "text": "DCI Arm & Tripod",
+            "url": "https://herronengineering.co.uk/products/auto-discharge-arm-tripod/"
+          },
+          {
+            "text": "Auto Fill Arm",
+            "url": "https://herronengineering.co.uk/products/auto-fill-arm/"
+          },
+          {
+            "text": "Double Hose Brackets",
+            "url": "https://herronengineering.co.uk/products/double-hose-brackets/"
+          },
+          {
+            "text": "Front Sight Tube",
+            "url": "https://herronengineering.co.uk/products/sight-tube/"
+          },
+          {
+            "text": "4\u201d Sight Glass",
+            "url": "https://herronengineering.co.uk/products/4-sight-glass/"
+          },
+          {
+            "text": "Rain Gun & Hydraulic Motor",
+            "url": "https://herronengineering.co.uk/products/rain-gun-hydraulic-motor/"
+          },
+          {
+            "text": "Wash Down Water Tap",
+            "url": "https://herronengineering.co.uk/products/wash-water-tap/"
+          },
+          {
+            "text": "Quick Release Fill Point",
+            "url": "https://herronengineering.co.uk/products/quick-release-fill-point/"
+          },
+          {
+            "text": "Herron Unique Spread Plate",
+            "url": "https://herronengineering.co.uk/products/unique-herron-spread-plate/"
+          },
+          {
+            "text": "Front & Back Discharge System",
+            "url": "https://herronengineering.co.uk/products/front-and-back-discharge-system/"
+          },
+          {
+            "text": "Overhedge Boom",
+            "url": "https://herronengineering.co.uk/products/overhedge-boom/"
+          },
+          {
+            "text": "Top Fill Hatch",
+            "url": "https://herronengineering.co.uk/products/top-fill-hatch/"
+          },
+          {
+            "text": "Jacking Point",
+            "url": "https://herronengineering.co.uk/products/jacking-point/"
+          },
+          {
+            "text": "Rear Work Lights",
+            "url": "https://herronengineering.co.uk/products/rear-work-lights/"
+          },
+          {
+            "text": "K-80 Adjustable Spoon Hitch",
+            "url": "https://herronengineering.co.uk/products/k-80-adjustable-spoon-hitch/"
+          },
+          {
+            "text": "Swivel Hitch Eye",
+            "url": "https://herronengineering.co.uk/products/swivel-hitch-eye/"
+          },
+          {
+            "text": "Wheels For Tankers",
+            "url": "https://herronengineering.co.uk/products/wheels-for-tankers/"
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "Side view of 12 ton Herron H2 Beavertail Low Loader and Dumper in one.",
+      "image": "HERRON-H2-BRL-DUMP-TRAILER-04-850x570.jpg",
+      "alt": "Side view of 12 ton Herron H2 Beavertail Low Loader and Dumper in one.",
+      "category": "Dump Trailers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-1"
+    },
+    {
+      "title": "Tandem Axle Slurry Tanker with Trailing Shoe by Herron Engineering",
+      "image": "HERRON-TRAILING-SHOE_01_WEB-e1524733821839.jpg",
+      "alt": "Tandem Axle Slurry Tanker with Trailing Shoe by Herron Engineering",
+      "category": "Slurry Spreading",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-2"
+    },
+    {
+      "title": "16 Tonne Tandem Axle Agri Low Loader Trailer by Herron Engineering",
+      "image": "HERRON-AGRI-TANDEM-LOW-LOADER2-850-x-570-850x570.jpg",
+      "alt": "16 Tonne Tandem Axle Agri Low Loader Trailer by Herron Engineering",
+      "category": "Lowloader Trailers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-3"
+    },
+    {
+      "title": "Herron Engineering trailer",
+      "image": "HERRON-Cattle-Feeding-Trailer_01_web-850x570.jpg",
+      "alt": "Herron Engineering trailer",
+      "category": "Feeding Trailers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-4"
+    },
+    {
+      "title": "Dropside Tipping Trailer by Herron Engineering",
+      "image": "HERRON-BASIC-DROPSIDE_01_850x570.jpg",
+      "alt": "Dropside Tipping Trailer by Herron Engineering",
+      "category": "Drop Side Trailers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-5"
+    },
+    {
+      "title": "Herron Agricultural Flatbed / Bale Trailer",
+      "image": "DSC_6313-BALE-TRAILER-WEB-850x570.jpg",
+      "alt": "Herron Agricultural Flatbed / Bale Trailer",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-6"
+    },
+    {
+      "title": "Herron Engineering",
+      "image": "HERRON-H1-Silage-Trailer-16-TON-HYD-REAR-DOOR_02_WEB-783x570.jpg",
+      "alt": "Herron Engineering",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-7"
+    },
+    {
+      "title": "Herron Engineering H2 Grain and Silage Trailer",
+      "image": "HERRON-H2-GRAIN-SILAGE-TRAILER_WEB-850x570.jpg",
+      "alt": "Herron Engineering H2 Grain and Silage Trailer",
+      "category": "Silage Trailers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-8"
+    },
+    {
+      "title": "Herron Engineering trailer",
+      "image": "HERRON-GRAIN-TRAILER_01_WEB-782x570.jpg",
+      "alt": "Herron Engineering trailer",
+      "category": "Grain Trailers Root Crop Trailer",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-9"
+    },
+    {
+      "title": "HERRON_H2_DUMP_TRAILER",
+      "image": "HERRON_DUMP_TRAILER_-18TON_H2_01-web-850x567.jpg",
+      "alt": "HERRON_H2_DUMP_TRAILER",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-10"
+    },
+    {
+      "title": "20 Tonne Industrial HDT Dump Trailer by Herron Engineering",
+      "image": "20-Ton-HDT-Industrial-Dump-Trailer-5-850-x-570.jpg",
+      "alt": "20 Tonne Industrial HDT Dump Trailer by Herron Engineering",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-11"
+    },
+    {
+      "title": "20 Tonne HDT Industrial Dump Trailer by Herron Engineering",
+      "image": "20-TON-HERRON-HDT-DUMP-TRAILER-WITH-TRACTOR-850-x-570.jpg",
+      "alt": "20 Tonne HDT Industrial Dump Trailer by Herron Engineering",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-12"
+    },
+    {
+      "title": "Triaxle Industrial Flatbed Trailer by Herron Engineering",
+      "image": "HERRON-IND-BALE-TRAILER_01-850-x-570.jpg",
+      "alt": "Triaxle Industrial Flatbed Trailer by Herron Engineering",
+      "category": "Flat Bed Trailers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-13"
+    },
+    {
+      "title": "Herron Engineering trailer",
+      "image": "DSC_6209-TRIAXLE-SIDE-WEB-850x570.jpg",
+      "alt": "Herron Engineering trailer",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-14"
+    },
+    {
+      "title": "HERRON SLURRY TANKER WITH BOOM",
+      "image": "HERRON_SLURRY_TANKER_-WITH-BOOM_01-WEB.jpg",
+      "alt": "HERRON SLURRY TANKER WITH BOOM",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-15"
+    },
+    {
+      "title": "2250 Gallon Single Axle Slurry Tanker Recessed by Herron Engineering",
+      "image": "HERRON-2250g-SLURRY-TANKER__01-850x570-850x570.jpg",
+      "alt": "2250 Gallon Single Axle Slurry Tanker Recessed by Herron Engineering",
+      "category": "Slurry Tankers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-16"
+    },
+    {
+      "title": "3500 Gallon Slurry Tanker with Overhedge Boom by Herron Engineering",
+      "image": "HERRON-TANDEM-AXLE-TANKER-WITH-BOOM-850-x-570.jpg",
+      "alt": "3500 Gallon Slurry Tanker with Overhedge Boom by Herron Engineering",
+      "category": "Equipment",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-17"
+    },
+    {
+      "title": "K-80 Spoon Hitch for Herron Trailers and Slurry Tankers by Herron Engineering",
+      "image": "K-80-Spoon-850-x-570_01-285x275.jpg",
+      "alt": "K-80 Spoon Hitch for Herron Trailers and Slurry Tankers by Herron Engineering",
+      "category": "Trailer Options",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-18"
+    },
+    {
+      "title": "Dual Pump System - Ferrari Sludgigator Pump and Hydraulic Vacuum Motor for Slurry Tankers by Herron Engineering",
+      "image": "DUAL-PUMP-SYSTEM_FERRARI-SLUDGIGATOR-PUMP-AND-HYD-VACUUM-MOTOR_850-x-570-285x275.jpg",
+      "alt": "Dual Pump System - Ferrari Sludgigator Pump and Hydraulic Vacuum Motor for Slurry Tankers by Herron Engineering",
+      "category": "Tanker Options",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://herronengineering.co.uk/",
+      "slug": "gallery-19"
+    }
+  ],
+  "products": [
+    {
+      "title": "12 Ton H2 BRL Beavertail Rear Loader",
+      "slug": "12-ton-h2-beavertail-rear-loader-dump-trailer",
+      "source": "https://herronengineering.co.uk/products/12-ton-h2-beavertail-rear-loader-dump-trailer/",
+      "source_description": "This innovative H2 model of a dumper and low loader in one. With a load capacity of 12 tonnes, it boasts a modern design, strength and durability. Extremely sturdy and exceptionally resilient during loading and unloading is the perfect choice for the most demanding customers. Main features include: \u2022 Internal beavertail built within the body to reduce height for ease of loading plant & machinery; \u2022 Low profile body to enable easy loading, slewing / rotation of plant & machinery, maximum stability, maneuverability and optimal field of vision for operator; \u2022 Hydraulic picture frame door \u2013 unique design dual function door within a door, with adjustable ramp mounting bar, dropping to form a ramp at 11\u00b0 angle; \u2022 Durable lightweight ramps hook-on alloy ramps of 25kg each, storage trays underneath the body. For more information please contact our Sales Team or watch a review done by Grassmen https://youtu.be/p_2OznUOkOY",
+      "image": "HERRON-H2-BRL-DUMP-TRAILER-04-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "This innovative H2 model of a dumper and low loader in one.",
+      "body": "This innovative H2 model of a dumper and low loader in one. With a load capacity of 12 tonnes, it boasts a modern design, strength and durability.",
+      "points": [
+        "Internal beavertail built within the body to reduce height for ease of loading plant & machinery",
+        "Low profile body to enable easy loading, slewing / rotation of plant & machinery, maximum stability, maneuverability and optimal field of vision for operator",
+        "Hydraulic picture frame door \u2013 unique design dual function door within a door, with adjustable ramp mounting bar, dropping to form a ramp at 11\u00b0 angle",
+        "Durable lightweight ramps hook-on alloy ramps of 25kg each, storage trays underneath the body. For more information please contact our Sales Team or watch a review done by Grassmen https://youtu.be/p_2OznUOkOY"
+      ]
+    },
+    {
+      "title": "Trailing Shoe / Dribble Bar",
+      "slug": "142",
+      "source": "https://herronengineering.co.uk/products/142/",
+      "source_description": "Herron Engineering offer a 7.4m fully galvanised Trailing Shoe / Dribble Bar with a spring loaded ground attachment, 30 port Vogelsang macerator, mast type \u2018A\u2019 frame close fitting attachment and full electrics. The mast consists of a twin lift hydraulic ramp system and the \u2018A\u2019 frame attachment enables transferring weight onto the rear axle and putting more grip on the tractor. Its quick release mechanism is strong, reliable and convenient to attach / detach for the operator. It is supplied with an operational box that comprises of modules responsible for mast, boom, boom safety lock, blockage of manure switch etc. The overall exposure is only 800mm, which enables better maneuverability in restricted areas. The Trailing Shoe injects slurry into the ground without damaging crop roots. It decreases losses and helps retain nutrients value in order to ensure maximum growth. \u00a0It also reduces smell and rising gases which makes it more environmentally friendly.",
+      "image": "HERRON-TRAILING-SHOE_WEB_01.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer a 7.4m fully galvanised Trailing Shoe / Dribble Bar with a spring loaded ground attachment, 30 port Vogelsang macerator, mast type \u2018A\u2019 frame close fitting attachment and full electrics.",
+      "body": "Herron Engineering offer a 7.4m fully galvanised Trailing Shoe / Dribble Bar with a spring loaded ground attachment, 30 port Vogelsang macerator, mast type \u2018A\u2019 frame close fitting attachment and full electrics. The mast consists of a twin lift hydraulic ramp system and the \u2018A\u2019 frame attachment enables transferring weight onto the rear axle and putting more grip on the tractor.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "HDT Agri Dump Trailer",
+      "slug": "agri-dump-trailer",
+      "source": "https://herronengineering.co.uk/products/agri-dump-trailer/",
+      "source_description": "Herron Engineering offer HDT Agricultural Dump Trailers with a load capacity from 12 to 18 tonnes. They are fitted with twin lifting tipping rams, hydraulic high lift door, hardened floor, sprung drawbar, LED lights, centre rocking bogies for rough terrain or spring suspension for smoother running. There is a range of options available from commercial axles, various braking systems to the choice of wheels.\u00a0All trailers are shot-blasted and finished with durable two-pack polyurethane paint.",
+      "image": "HERRON-AGRI-DUMP-TRAILER_WEB-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer HDT Agricultural Dump Trailers with a load capacity from 12 to 18 tonnes.",
+      "body": "Herron Engineering offer HDT Agricultural Dump Trailers with a load capacity from 12 to 18 tonnes. They are fitted with twin lifting tipping rams, hydraulic high lift door, hardened floor, sprung drawbar, LED lights, centre rocking bogies for rough terrain or spring suspension for smoother running.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Agri Low Loader",
+      "slug": "agri-low-loader-trailer",
+      "source": "https://herronengineering.co.uk/products/agri-low-loader-trailer/",
+      "source_description": "Herron Agri Low Loaders, with a loading capacity\u00a0from 10 to 18 tonnes in tandem and 21 tonnes in tri-axle, are designed for the effortless and\u00a0economical transport of plant, machinery and equipment. Their main features include ADR axles, spring loaded ramps, side crash bars, steel toolbox and LED lights. All trailers are shot-blasted and finished with two-pack polyurethane paint to guarantee durability and long-lasting resistance against corosion. We also offer bespoke solutions to suit different purposes and applications. Our wide variety of options such as the choice of axles, brakes, wheels and custom equipment, can help you create a trailer that will meet your individual needs.",
+      "image": "HERRON-AGRI-TANDEM-LOW-LOADER2-850-x-570-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Agri Low Loaders, with a loading capacity\u00a0from 10 to 18 tonnes in tandem and 21 tonnes in tri-axle, are designed for the effortless and\u00a0economical transport of plant, machinery and equipment.",
+      "body": "Herron Agri Low Loaders, with a loading capacity\u00a0from 10 to 18 tonnes in tandem and 21 tonnes in tri-axle, are designed for the effortless and\u00a0economical transport of plant, machinery and equipment. Their main features include ADR axles, spring loaded ramps, side crash bars, steel toolbox and LED lights.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Cattle Feeding Trailer",
+      "slug": "cattle-feeding-trailer",
+      "source": "https://herronengineering.co.uk/products/cattle-feeding-trailer/",
+      "source_description": "Herron Engineering offer Cattle Feeding Trailers in two sizes \u2013 14\u2019 & 20\u2019. All trailers are shot blasted and painted with two pac polyurethane paint.",
+      "image": "HERRON-Cattle-Feeding-Trailer_01_web-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer Cattle Feeding Trailers in two sizes \u2013 14\u2019 & 20\u2019.",
+      "body": "Herron Engineering offer Cattle Feeding Trailers in two sizes \u2013 14\u2019 & 20\u2019. All trailers are shot blasted and painted with two pac polyurethane paint.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Dropside Tipping Trailer",
+      "slug": "dropside-tipping-trailer",
+      "source": "https://herronengineering.co.uk/products/dropside-tipping-trailer/",
+      "source_description": "Herron Engineering offer a dropside tipping trailer with a load capacity from 2.5 tonnes to 6.5 tonnes in various lengths. These single axle compact trailers have a strong and sturdy structure and can be fitted with a single tipping ram and LED lights. All Herron trailers are shot-blasted and finished with two-pack polyurethane paint to guarantee high quality and long-lasting resistance against corrosion. A wide variety of options such as front loader system, bale extensions, hydraulic tail door latch and the choice of brakes and wheels, enables us to create a bespoke dropside tipping trailer that would suit individual needs of our customers.",
+      "image": "HERRON-BASIC-DROPSIDE_01_850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer a dropside tipping trailer with a load capacity from 2.5 tonnes to 6.5 tonnes in various lengths.",
+      "body": "Herron Engineering offer a dropside tipping trailer with a load capacity from 2.5 tonnes to 6.5 tonnes in various lengths. These single axle compact trailers have a strong and sturdy structure and can be fitted with a single tipping ram and LED lights.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Flatbed / Bale Trailer",
+      "slug": "flatbed-bale-trailer",
+      "source": "https://herronengineering.co.uk/products/flatbed-bale-trailer/",
+      "source_description": "Herron Engineering agricultural flatbed / bale trailer\u00a0\u00a0is the perfect solution for the transportation of\u00a0 bales, boxes, pallets and other goods and materials. Models vary from 10 to 20 tonnes and come in different lengths. The main features include duraplate steel floor, lockable front tool box, bale racks and LED lights. Our flatbed / bale trailer options include axles, brakes, wheels and custom equipment such as a root crop hydraulic side step or hydraulic box and bale pusher . All Herron trailers are shot-blasted and finished with two-pack polyurethane paint to guarantee durability and long-lasting protection against corrosion.",
+      "image": "DSC_6313-BALE-TRAILER-WEB-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering agricultural flatbed / bale trailer\u00a0\u00a0is the perfect solution for the transportation of\u00a0 bales, boxes, pallets and other goods and materials.",
+      "body": "Herron Engineering agricultural flatbed / bale trailer\u00a0\u00a0is the perfect solution for the transportation of\u00a0 bales, boxes, pallets and other goods and materials. Models vary from 10 to 20 tonnes and come in different lengths.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "H1 Silage Trailer",
+      "slug": "h1-grain-silage",
+      "source": "https://herronengineering.co.uk/products/h1-grain-silage/",
+      "source_description": "The H1 Silage Trailer with its traditional body has been manufactured since 2001. Over the years it has been regularly modernized and is still very popular. The main features include an automatic silage door (floor trip latch), sprung drawbar and LED lights. It can be also supplied with commercial axles, hydraulic up & over door, greedy boards, lever grain hatch and PVC rollover cover. All trailers are shot-blasted and finished with durable two-pack polyurethane paint. Models range from 9 to 18 tonnes.",
+      "image": "HERRON-H1-Silage-Trailer-16-TON-HYD-REAR-DOOR_02_WEB-783x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "The H1 Silage Trailer with its traditional body has been manufactured since 2001.",
+      "body": "The H1 Silage Trailer with its traditional body has been manufactured since 2001. Over the years it has been regularly modernized and is still very popular.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "H1 Grain & Root Crops Trailers",
+      "slug": "h1-grain-trailers",
+      "source": "https://herronengineering.co.uk/products/h1-grain-trailers/",
+      "source_description": "The H1 Grain Trailers with their strong monocoque body have been well tested over the years and have proved to be reliable and well balanced.\u00a0All models are shot-blasted and finished with durable two-pack polyurethane paint. These trailers are constructed with lower sides for root crops, potatoes and carrots. They can also be supplied with extension boards to suit cereal growers. They are fitted with new ADR axles, multi-stage twin tipping ram, sprung drawbar and LED lights. Models vary from 9 to 18 tonnes.",
+      "image": "14-ton-HERRON-grain-front-side-850-x-570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "The H1 Grain Trailers with their strong monocoque body have been well tested over the years and have proved to be reliable and well balanced.",
+      "body": "The H1 Grain Trailers with their strong monocoque body have been well tested over the years and have proved to be reliable and well balanced. All models are shot-blasted and finished with durable two-pack polyurethane paint.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "H2 Silage Trailer",
+      "slug": "h2-fast-tow-grain-silage-trailer",
+      "source": "https://herronengineering.co.uk/products/h2-fast-tow-grain-silage-trailer/",
+      "source_description": "The\u00a0Herron H2\u00a0Silage Trailer\u00a0demonstrates the highest level of innovation on the agricultural market today.\u00a0The trailers are\u00a0engineered for strength and boast a modern design, superior maneuverability and high visibility for the operator. The main features include a multi-stage single tipping ram, commercial axles, hydraulic slimline up & over door, sprung drawbar and LED lights.\u00a0Herron Engineering\u00a0also offers a wide variety of options such as a steering axle, air/hydraulic load sensing valve, electric/hydraulic brake fail system, choice of wheels.\u00a0All trailers are shot-blasted and finished with two-pack polyurethane paint. Models vary from 14 to 26 tonnes.",
+      "image": "HERRON-H2-GRAIN-SILAGE-TRAILER_WEB-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "The\u00a0Herron H2\u00a0Silage Trailer\u00a0demonstrates the highest level of innovation on the agricultural market today.",
+      "body": "The\u00a0Herron H2\u00a0Silage Trailer\u00a0demonstrates the highest level of innovation on the agricultural market today. The trailers are\u00a0engineered for strength and boast a modern design, superior maneuverability and high visibility for the operator.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "H2 Grain Trailers",
+      "slug": "h2-grain-trailers",
+      "source": "https://herronengineering.co.uk/products/h2-grain-trailers/",
+      "source_description": "This technologically advanced and innovative range of Herron Grain Trailers, with a load capacity from 14 to 26 tonnes, has been designed and manufactured to an exceptionally high specification to meet the demands of harvesting.\u00a0The H2 Grain Trailers are fitted with commercial axles, multi-stage single tipping ram for faster discharge, sprung drawbar,\u00a0multi-leaf spring suspension, hydraulic slimline up & over grain door, extension boards,\u00a0perspex front window, ladder and LED lights. Optionally, we offer a choice of brakes, steering axles, front work platform, rollover PVC cover etc. All trailers are shot-blasted and finished with durable two-pac polyurethane paint.",
+      "image": "HERRON-GRAIN-TRAILER_01_WEB-782x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "This technologically advanced and innovative range of Herron Grain Trailers, with a load capacity from 14 to 26 tonnes, has been designed and manufactured to an exceptionally high specification to meet the demands of harvesting.",
+      "body": "This technologically advanced and innovative range of Herron Grain Trailers, with a load capacity from 14 to 26 tonnes, has been designed and manufactured to an exceptionally high specification to meet the demands of harvesting. The H2 Grain Trailers are fitted with commercial axles, multi-stage single tipping ram for faster discharge, sprung drawbar,\u00a0multi-leaf spring suspension, hydraulic slimline up & over grain door, extension boards,\u00a0perspex front window, ladder and LED lights.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "H2 Wide Bottom Dump Trailer",
+      "slug": "h2-wide-bottom-dump-trailer",
+      "source": "https://herronengineering.co.uk/products/h2-wide-bottom-dump-trailer/",
+      "source_description": "The innovative H2 model with a load capacity from 15 to 20 tonnes boasts a modern design, strength and durability. Extremely sturdy and exceptionally resilient during loading and unloading is the perfect choice for the most demanding customers. Standard features include a multi-stage single tipping ram, commercial axles, sprung drawbar, slim line hydraulic high lift door, hardened wear plate floor and LED lights. We also offer a wide variety of options such as extension sides, air/hydraulic load sensing valve, electric/hydraulic brake fail system, hydraulic weight transfer, choice of wheels etc. Our latest model is 25 Tonne Industrial Fast Tow Tri-Axle trailer fitted with\u00a0heavy duty rear steering axles, air brakes, sprung drawbar and 36 tonne commercial spring suspension. All trailers are shot-blasted and finished with durable two-pack polyurethane paint.",
+      "image": "HERRON_DUMP_TRAILER_-18TON_H2_01-web-850x567.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "The innovative H2 model with a load capacity from 15 to 20 tonnes boasts a modern design, strength and durability.",
+      "body": "The innovative H2 model with a load capacity from 15 to 20 tonnes boasts a modern design, strength and durability. Extremely sturdy and exceptionally resilient during loading and unloading is the perfect choice for the most demanding customers.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Heavy Duty Tipping Trailer",
+      "slug": "heavy-duty-tipping-trailer",
+      "source": "https://herronengineering.co.uk/products/heavy-duty-tipping-trailer/",
+      "source_description": "Herron Engineering offer a heavy duty tipping trailer with a load capacity from 9 tonnes to 15 tonnes. This multi-purpose trailer is designed to a high specification, has a robust body and sturdy structure. It is fitted with ADR axles, single or twin tipping ram, centre rocking bogies / spring suspension and LED lights. All Herron trailers are shot-blasted and finished with two-pack polyurethane paint to guarantee high quality and long-lasting resistance against corrosion. A wide variety of options such as grain sides, bale extensions, excavator front loader system and the choice of axles, brakes and wheels, enables us to create a bespoke heavy duty tipping trailer that would suit each individual\u2019s needs.",
+      "image": "HERRON_DROPSIDE_TRAILER_-15TON_01-16-x-9-WEB-850x478.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer a heavy duty tipping trailer with a load capacity from 9 tonnes to 15 tonnes.",
+      "body": "Herron Engineering offer a heavy duty tipping trailer with a load capacity from 9 tonnes to 15 tonnes. This multi-purpose trailer is designed to a high specification, has a robust body and sturdy structure.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "HDT Industrial Dump Trailer",
+      "slug": "industrial-dump-trailer",
+      "source": "https://herronengineering.co.uk/products/industrial-dump-trailer/",
+      "source_description": "Herron HDT Industrial Dump Trailers with a load capacity from 20 to 25 tonnes is a heavy duty range tailored for the construction, recycling, earth moving and quarrying industries.\u00a0Our HDT trailers are designed with efficiency and safety in mind \u2013 they are fitted with a heavy duty multi-leaf spring suspension, heavy duty fully plated chassis, air/hydraulic load sensing valve, hardened wear plate floor, twin lifting tipping rams, tapered body for easy discharge, sprung drawbar and hydraulic high lift door.\u00a0All trailers are shot-blasted and finished with durable two-pack polyurethane paint. A custom built industrial trailer will help ensure that processes and jobs are carried out with increased proficiency, facilitated by uncomplicated loading and unloading, maneuvering and custom features.",
+      "image": "20-Ton-HDT-Industrial-Dump-Trailer-5-850-x-570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron HDT Industrial Dump Trailers with a load capacity from 20 to 25 tonnes is a heavy duty range tailored for the construction, recycling, earth moving and quarrying industries.",
+      "body": "Herron HDT Industrial Dump Trailers with a load capacity from 20 to 25 tonnes is a heavy duty range tailored for the construction, recycling, earth moving and quarrying industries. Our HDT trailers are designed with efficiency and safety in mind \u2013 they are fitted with a heavy duty multi-leaf spring suspension, heavy duty fully plated chassis, air/hydraulic load sensing valve, hardened wear plate floor, twin lifting tipping rams, tapered body for easy discharge, sprung drawbar and hydraulic high lift door.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Industrial Flatbed Trailer",
+      "slug": "industrial-flatbed-trailer",
+      "source": "https://herronengineering.co.uk/products/industrial-flatbed-trailer/",
+      "source_description": "Herron industrial flatbed trailer with a load capacity of 24 tonnes is a fast tow triaxle trailer for the transportation of\u00a0 bales, boxes, pallets and other goods and materials. The main features include rear steering commercial axles, duraplate steel floor, lockable front tool box, bale racks and LED lights. All Herron trailers are shot-blasted and finished with two-pack polyurethane paint to guarantee durability and long-lasting protection against corrosion. Our industrial flatbed trailer options include a choice of axles, brakes, wheels and custom equipment.",
+      "image": "HERRON-IND-BALE-TRAILER_01-850-x-570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron industrial flatbed trailer with a load capacity of 24 tonnes is a fast tow triaxle trailer for the transportation of\u00a0 bales, boxes, pallets and other goods and materials.",
+      "body": "Herron industrial flatbed trailer with a load capacity of 24 tonnes is a fast tow triaxle trailer for the transportation of\u00a0 bales, boxes, pallets and other goods and materials. The main features include rear steering commercial axles, duraplate steel floor, lockable front tool box, bale racks and LED lights.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Industrial Low Loader",
+      "slug": "industrial-low-loader",
+      "source": "https://herronengineering.co.uk/products/industrial-low-loader/",
+      "source_description": "Herron Industrial Low Loader is built to a heavy duty specification with efficiency and safety in mind. This extremely robust tri-axle trailer is the perfect choice for the transportation of heavy plant and machinery. The trailer comes well equipped with ADR commercial axles, 32 tonnes multi-leaf suspension, air/dual load sensing valve, sprung drawbar, hydraulic ramps, heavy duty timber floor, outriggers and storage boxes. All trailers are shot-blasted and finished with two-pack polyurethane paint to guarantee long-lasting resistance against corrosion.\u00a0A custom built industrial trailer will help ensure that processes and jobs are carried out with increased proficiency, facilitated by uncomplicated loading and unloading, maneuvering and custom features.",
+      "image": "DSC_6209-TRIAXLE-SIDE-WEB-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Industrial Low Loader is built to a heavy duty specification with efficiency and safety in mind.",
+      "body": "Herron Industrial Low Loader is built to a heavy duty specification with efficiency and safety in mind. This extremely robust tri-axle trailer is the perfect choice for the transportation of heavy plant and machinery.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Overhedge Boom",
+      "slug": "overhedge-boom-2",
+      "source": "https://herronengineering.co.uk/products/overhedge-boom-2/",
+      "source_description": "The Herron Engineering over hedge boom is hydraulically operated and delivers the slurry from one tanker to another via a top fill hatch. The Herron over hedge boom ensures transfer of slurry can take place anywhere, even across hedgerows and ditches.",
+      "image": "HERRON_SLURRY_TANKER_-WITH-BOOM_01-WEB.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "The Herron Engineering over hedge boom is hydraulically operated and delivers the slurry from one tanker to another via a top fill hatch.",
+      "body": "The Herron Engineering over hedge boom is hydraulically operated and delivers the slurry from one tanker to another via a top fill hatch. The Herron over hedge boom ensures transfer of slurry can take place anywhere, even across hedgerows and ditches.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Sheep Feeding Trailer",
+      "slug": "sheep-feeding-trailer",
+      "source": "https://herronengineering.co.uk/products/sheep-feeding-trailer/",
+      "source_description": "Herron Engineering offer Sheep Feeding Trailers in two sizes \u2013 12\u20196\u201d or 16\u20196\u201d.\u00a0All trailers are shot blasted and painted with two pac polyurethane paint.",
+      "image": "HERRON-Sheep-Feeding-Trailer_01_web-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer Sheep Feeding Trailers in two sizes \u2013 12\u20196\u201d or 16\u20196\u201d.",
+      "body": "Herron Engineering offer Sheep Feeding Trailers in two sizes \u2013 12\u20196\u201d or 16\u20196\u201d. All trailers are shot blasted and painted with two pac polyurethane paint.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Single Axle Slurry Tankers",
+      "slug": "single-axle-slurry-tankers",
+      "source": "https://herronengineering.co.uk/products/single-axle-slurry-tankers/",
+      "source_description": "Herron Engineering offer Single Axle Recessed Slurry Tankers ranging from 1750 gallons (8,000 litres) to 2800 gallons (12,750 litres). They are designed to maintain rigidity, reliability and road-worthiness for many years.\u00a0All models are fabricated on-site and have a steel tank that is rolled, fully welded, shot-blasted and painted with\u00a0hard-wearing two-pack polyurethane paint to ensure a consistent and robust finish and long-lasting protection from the harsh environment.\u00a0The main features include ADR axles, hydraulic brakes, sprung drawbar, quick attach valves and LED lights. A wide variety of options such as hydraulic change over, auto-fill arm, DCI arm, top fill hatch, overhedge boom, full length sight tube, choice of brakes and wheels etc. will help you create a bespoke tanker to suit your needs.",
+      "image": "HERRON-2250g-SLURRY-TANKER__01-850x570-850x570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer Single Axle Recessed Slurry Tankers ranging from 1750 gallons (8,000 litres) to 2800 gallons (12,750 litres).",
+      "body": "Herron Engineering offer Single Axle Recessed Slurry Tankers ranging from 1750 gallons (8,000 litres) to 2800 gallons (12,750 litres). They are designed to maintain rigidity, reliability and road-worthiness for many years.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    },
+    {
+      "title": "Tandem Axle Slurry Tankers",
+      "slug": "tandem-axle-slurry-tankers",
+      "source": "https://herronengineering.co.uk/products/tandem-axle-slurry-tankers/",
+      "source_description": "Herron Engineering offer a range of Tandem Axle Recessed\u00a0Slurry Tankers from 2800 gallons (12,750 litres) to 4000 gallons (18,200 litres). These tankers\u00a0are perfectly suited for intensive slurry spreading and transport works.\u00a0 They are designed to maintain rigidity, reliability and road-worthiness for many years.\u00a0All models are fabricated on-site and have a steel tank that is rolled, fully welded, shot-blasted and then painted with\u00a0hard-wearing two-pack polyurethane paint to ensure a consistent and robust finish and long-lasting protection from the harsh environment.\u00a0The main features include ADR commercial axles, hydraulic brakes, sprung drawbar, quick attach valves and LED lights. A wide variety of options such as hydraulic change over, auto-fill arm, DCI arm, top fill hatch, overhedge boom, trailing shoe/dribble bar, full length sight tube, choice of brakes and wheels etc. will help you create a bespoke tanker to suit your needs.",
+      "image": "HERRON-TANDEM-AXLE-TANKER-WITH-BOOM-850-x-570.jpg",
+      "source_tables_in": "tmp/fourth-assets/herron-engineering/sources.json",
+      "note": "Published brochure specification, not stock or availability. Confirm final configuration with sales.",
+      "short": "Herron Engineering offer a range of Tandem Axle Recessed\u00a0Slurry Tankers from 2800 gallons (12,750 litres) to 4000 gallons (18,200 litres).",
+      "body": "Herron Engineering offer a range of Tandem Axle Recessed\u00a0Slurry Tankers from 2800 gallons (12,750 litres) to 4000 gallons (18,200 litres). These tankers\u00a0are perfectly suited for intensive slurry spreading and transport works.",
+      "points": [
+        "Discuss the application",
+        "Confirm the required specification",
+        "Ask about available options"
+      ]
+    }
+  ],
+  "sectors": []
+}

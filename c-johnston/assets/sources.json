@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-12",
+  "used_files": {
+    "service-guide.svg": "service-guide.svg"
+  },
+  "rights": "Original business photographs retain their rights. Public source sharing does not grant an open image licence or business endorsement.",
+  "original_records": {
+    "retrieved": "2026-10-12",
+    "pages": [
+      "https://www.cjohnstonandco.co.uk/",
+      "https://www.cjohnstonandco.co.uk/services",
+      "https://www.cjohnstonandco.co.uk/contact-us"
+    ],
+    "assets": [
+      {
+        "url": "https://www.cjohnstonandco.co.uk/uploads/Q2Rp3pVw/737x0_847x0/header-object.png",
+        "alt": "Logo",
+        "source": "https://www.cjohnstonandco.co.uk/services",
+        "filename": "image-00.png",
+        "width": 411,
+        "height": 107,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://www.cjohnstonandco.co.uk/uploads/EVZeTAAp/0x0_2560x0/page_gl.jpg",
+        "alt": "Original website background",
+        "source": "https://www.cjohnstonandco.co.uk/",
+        "filename": "image-01.jpg",
+        "width": 1280,
+        "height": 567,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      },
+      {
+        "url": "https://www.cjohnstonandco.co.uk/uploads/rMYmo7PR/0x0_2560x0/page_gl_105.jpg",
+        "alt": "Original website background",
+        "source": "https://www.cjohnstonandco.co.uk/",
+        "filename": "image-02.jpg",
+        "width": 1001,
+        "height": 567,
+        "attribution": "Published on official business website. Ownership/licensing not transferred; original photography may be licensed stock."
+      }
+    ]
+  }
+}

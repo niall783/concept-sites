@@ -18,6 +18,11 @@ Website concepts, each in its own folder, for sharing, review and future develop
 | Spa Pallet Services Ltd | [spa-pallet-services](spa-pallet-services/) | [View full demo](https://spa-pallet-services-demo.niall783.chatgpt.site) |
 | Advantage Control Ltd | [advantage-control](advantage-control/) | [View full demo](https://advantage-control-demo.niall783.chatgpt.site) |
 | Travers Steel | [travers-steel](travers-steel/) | [View full demo](https://travers-steel-demo.niall783.chatgpt.site) |
+| Eamonn P McGrady & Co | [eamonn-mcgrady](eamonn-mcgrady/) | [View full demo](https://eamonn-mcgrady-demo.niall783.chatgpt.site) |
+| C Johnston & Co | [c-johnston](c-johnston/) | [View full demo](https://c-johnston-demo.niall783.chatgpt.site) |
+| Doran Precision Engineering Ltd | [doran-engineering](doran-engineering/) | [View full demo](https://doran-engineering-demo.niall783.chatgpt.site) |
+| Herron Engineering Ltd | [herron-engineering](herron-engineering/) | [View full demo](https://herron-engineering-demo.niall783.chatgpt.site) |
+| W & C Glazing | [wc-glazing](wc-glazing/) | [View full demo](https://wc-glazing-demo.niall783.chatgpt.site) |
 
 ## Run a concept locally
 

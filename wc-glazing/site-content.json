@@ -1,0 +1,186 @@
+{
+  "settings": {
+    "mark": "W&C",
+    "descriptor": "Architectural glazing",
+    "eyebrow": "BALLYGOWAN \u00b7 NORTHERN IRELAND",
+    "headline": "Light, space.<br>A clearer perspective.",
+    "intro": "Aluminium curtain walling, windows and doors for commercial buildings and homes. From design and fabrication to installation.",
+    "primary": "Discuss your project",
+    "proof": [
+      [
+        "Design & fabrication",
+        "An integrated glazing service"
+      ],
+      [
+        "Commercial & domestic",
+        "Spaces of different scales"
+      ],
+      [
+        "Ballygowan",
+        "Based in County Down"
+      ]
+    ],
+    "storyTitle": "From the first idea.<br>To the finished space.",
+    "rangeTitle": "The frame for<br>a better space.",
+    "galleryTitle": "Spaces opened<br>to possibility.",
+    "aboutTitle": "Practical expertise.<br>A considered finish.",
+    "name": "W & C Glazing",
+    "phone": "028 9752 8278",
+    "tel": "+442897528278",
+    "email": "info@wcglazing.com",
+    "address": "50 Carrickmanon Road, Ballygowan, BT23 6JH",
+    "slug": "wc-glazing",
+    "source": "https://wcglazing.com/",
+    "about": "W & C Glazing is a family business in Ballygowan founded by Billy and Celia Magill. Originally serving domestic glazing, the business expanded into commercial glazing and curtain walling. Its work covers design, fabrication and installation for new builds, renovations and extensions.",
+    "services": [
+      {
+        "title": "Aluminium Curtain Walling",
+        "slug": "curtain-walling",
+        "short": "Glazing for commercial and architectural projects.",
+        "body": "W & C Glazing works with clients and architects on the design, fabrication and installation of aluminium curtain walling. Its published portfolio includes refurbishment and mixed-use development projects.",
+        "points": [
+          "Design collaboration",
+          "Fabrication",
+          "Installation"
+        ],
+        "source": "https://wcglazing.com/about-w-c-glazing-ballygowan/",
+        "image": "063-County-Hall.jpg"
+      },
+      {
+        "title": "Aluminium Windows & Doors",
+        "slug": "aluminium-windows-doors",
+        "short": "Glazing shaped around your building.",
+        "body": "The company supplies and installs aluminium windows and doors for domestic and commercial buildings. Discuss the design, finish and application with the team.",
+        "points": [
+          "Windows",
+          "Doors",
+          "Domestic and commercial"
+        ],
+        "source": "https://wcglazing.com/about-w-c-glazing-ballygowan/",
+        "image": "315-Carrick-6.jpg"
+      },
+      {
+        "title": "PVC Windows & Doors",
+        "slug": "pvc-windows-doors",
+        "short": "Practical glazing for homes and renovation projects.",
+        "body": "W & C Glazing designs, fabricates and installs PVC windows and doors. Published projects include sliding sash windows and PVC glazing for new homes.",
+        "points": [
+          "PVC windows",
+          "Sliding sash projects",
+          "Doors"
+        ],
+        "source": "https://wcglazing.com/about-w-c-glazing-ballygowan/",
+        "image": "406-Private-Dwelling-Saintfield.jpg"
+      },
+      {
+        "title": "Composite Doors",
+        "slug": "composite-doors",
+        "short": "A considered entrance for your home.",
+        "body": "Composite doors are part of the published W & C Glazing portfolio. The Crawfordsburn and Saintfield case studies include composite doors, and the original site links to the Apeer doorbuilder. Discuss styles and availability directly with the team.",
+        "points": [
+          "Entrance doors",
+          "Style selection",
+          "Availability confirmation"
+        ],
+        "source": "https://wcglazing.com/w-c-glazing-ballygowan-works-gallery/",
+        "image": "144-IMG_0775.jpg"
+      },
+      {
+        "title": "Bi-Fold Aluminium Doors",
+        "slug": "bi-fold-doors",
+        "short": "Connect living space with the outdoors.",
+        "body": "The published portfolio includes aluminium bi-fold doors. The Crawfordsburn case study describes bi-fold doors in the kitchen opening towards the garden. Discuss the opening dimensions and project requirements.",
+        "points": [
+          "Aluminium bi-fold doors",
+          "Domestic applications",
+          "Project consultation"
+        ],
+        "source": "https://wcglazing.com/w-c-glazing-ballygowan-works-gallery/",
+        "image": "407-IMG_0716.jpg"
+      },
+      {
+        "title": "Patio Doors",
+        "slug": "patio-doors",
+        "short": "Open up your home to light and access.",
+        "body": "Patio doors feature in the company\u2019s published galleries and projects, including Comber Mill Village. Discuss your opening, material and finish requirements with the team.",
+        "points": [
+          "Patio door options",
+          "Aluminium and PVC enquiries",
+          "Installation"
+        ],
+        "source": "https://wcglazing.com/w-c-glazing-ballygowan-works-gallery/",
+        "image": "111-IMG_0762.jpg"
+      },
+      {
+        "title": "Roof Lights",
+        "slug": "roof-lights",
+        "short": "Bring daylight into your living space.",
+        "body": "Roof lights are included in the published works gallery. Contact the team to discuss the type of opening, glazing and installation needed for your project.",
+        "points": [
+          "Daylight glazing",
+          "Project requirements",
+          "Installation enquiries"
+        ],
+        "source": "https://wcglazing.com/w-c-glazing-ballygowan-works-gallery/",
+        "image": "070-SAM_03651.jpg"
+      },
+      {
+        "title": "Glass & Maintenance",
+        "slug": "glass-maintenance",
+        "short": "Glazing support for homes and businesses.",
+        "body": "Alongside new builds, renovations and extensions, W & C Glazing lists glass supply for general maintenance around homes and offices. Contact the team with the dimensions and details of the work required.",
+        "points": [
+          "Glass enquiries",
+          "Homes and offices",
+          "Renovation and maintenance"
+        ],
+        "source": "https://wcglazing.com/about-w-c-glazing-ballygowan/",
+        "image": "314-Carrick-4.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "County Hall Ballymena",
+      "image": "402-County-Hall.jpg",
+      "alt": "County Hall Ballymena \u2014 historical portfolio photograph",
+      "category": "Commercial",
+      "short": "Ballymena",
+      "body": "Replacement of existing steel sash windows with double-glazed aluminium curtain walling windows during a refurbishment of occupied offices.",
+      "source": "https://wcglazing.com/project/01-case-study/",
+      "slug": "project-county-hall-ballymena-1"
+    },
+    {
+      "title": "Private Dwelling Saintfield",
+      "image": "406-Private-Dwelling-Saintfield.jpg",
+      "alt": "Private Dwelling Saintfield \u2014 historical portfolio photograph",
+      "category": "Residential",
+      "short": "Saintfield",
+      "body": "PVC sliding sash windows, composite doors and glazed linkway frames supplied and fitted for a new private dwelling.",
+      "source": "https://wcglazing.com/project/02-case-study/",
+      "slug": "project-private-dwelling-saintfield-2"
+    },
+    {
+      "title": "Comber Mill Village",
+      "image": "060-SAM_0452.jpg",
+      "alt": "Comber Mill Village \u2014 historical portfolio photograph",
+      "category": "Commercial & residential",
+      "short": "Comber",
+      "body": "Aluminium windows, doors, patio doors and curtain walling supplied and installed for the redevelopment of the former mill into apartments and townhouses.",
+      "source": "https://wcglazing.com/project/03-case-study/",
+      "slug": "project-comber-mill-village-3"
+    },
+    {
+      "title": "Private Dwelling Crawfordsburn",
+      "image": "407-IMG_0716.jpg",
+      "alt": "Private Dwelling Crawfordsburn \u2014 historical portfolio photograph",
+      "category": "Residential",
+      "short": "Crawfordsburn",
+      "body": "Charcoal grey PVC windows and doors, an Apeer composite front door and aluminium bi-fold doors supplied and fitted for a new home.",
+      "source": "https://wcglazing.com/project/04-case-study/",
+      "slug": "project-private-dwelling-crawfordsburn-4"
+    }
+  ],
+  "products": [],
+  "sectors": []
+}
