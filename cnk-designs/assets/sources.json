@@ -1,0 +1,262 @@
+{
+  "checked": "2026-10-12",
+  "used_images": [
+    "hero-white-kitchen.jpg",
+    "bedroom.jpg",
+    "pantry.jpg",
+    "boot-room.jpg",
+    "fleet.jpg",
+    "smoke-green-kitchen.jpg",
+    "oak-kitchen.png",
+    "walnut-quartz-kitchen.jpg",
+    "fitted-wardrobes.jpg",
+    "showroom.jpg",
+    "showroom-interior.jpg"
+  ],
+  "original_records": {
+    "business": "CNK Designs",
+    "captured": "2026-10-12",
+    "official": "https://cnkdesigns.co.uk/",
+    "pages": [
+      {
+        "url": "https://cnkdesigns.co.uk/",
+        "status": 200,
+        "title": "CNK Designs \u2013 Bespoke, High Quality Kitchens supplied and fitted throughout Northern Ireland"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/about-us/",
+        "status": 200,
+        "title": "About Us \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/our-showroom/",
+        "status": 200,
+        "title": "Our Showroom \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/bedrooms/",
+        "status": 200,
+        "title": "Bedrooms \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/kitchens/",
+        "status": 200,
+        "title": "Kitchens \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/completed-jobs-portfolio/",
+        "status": 200,
+        "title": "Project Portfolio \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/completed-jobs/",
+        "status": 200,
+        "title": "Kitchens Gallery \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/testimonials/",
+        "status": 200,
+        "title": "Testimonials \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/our-blog/",
+        "status": 200,
+        "title": "Our Blog \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/contact-us/",
+        "status": 200,
+        "title": "Contact Us \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/traditional-contrast/",
+        "status": 200,
+        "title": "Brilliant White Traditional Contrast \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/smoke-green-kitchen-elegance/",
+        "status": 200,
+        "title": "Smoke Green Elegance \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/luxury-in-natural-elements/",
+        "status": 200,
+        "title": "Luxury in Natural Elements \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/walnut-and-quartz-culinary-combination/",
+        "status": 200,
+        "title": "Walnut and Quartz Combination \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/bespoke-boot-room/",
+        "status": 200,
+        "title": "Bespoke Boot Room \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/fitted-wardrobes-feature/",
+        "status": 200,
+        "title": "Fitted Wardrobes Feature \u2013 CNK Designs"
+      },
+      {
+        "url": "https://cnkdesigns.co.uk/cnk_designs_portfolio/pantry-gallery/",
+        "status": 200,
+        "title": "Pantry Gallery \u2013 CNK Designs"
+      }
+    ],
+    "images": [
+      {
+        "filename": "hero-white-kitchen.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/hero-white-kitchen.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2025/03/AJ_9-scaled.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2025/03/AJ_9-scaled.jpg",
+        "alt": "Brilliant white cabinetry with red brick stove surround",
+        "category": "kitchens",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 564585
+      },
+      {
+        "filename": "smoke-green-kitchen.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/smoke-green-kitchen.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2025/03/Harry_3-scaled.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2025/03/Harry_3-scaled.jpg",
+        "alt": "Smoke green kitchen cabinetry and quartz worktops",
+        "category": "kitchens",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 290019
+      },
+      {
+        "filename": "oak-kitchen.png",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/oak-kitchen.png",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2024/11/Oak-kitchen1.png",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2024/11/Oak-kitchen1.png",
+        "alt": "Oak kitchen with natural timber cabinetry",
+        "category": "kitchens",
+        "width": 2500,
+        "height": 1667,
+        "bytes": 4499547
+      },
+      {
+        "filename": "walnut-quartz-kitchen.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/walnut-quartz-kitchen.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2023/12/Justin_McClay_01-scaled.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2023/12/Justin_McClay_01-scaled.jpg",
+        "alt": "Walnut cabinetry and quartz kitchen island",
+        "category": "kitchens",
+        "width": 2560,
+        "height": 1731,
+        "bytes": 594378
+      },
+      {
+        "filename": "boot-room.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/boot-room.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/09/CNK_02_-15-scaled.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/09/CNK_02_-15-scaled.jpg",
+        "alt": "Bespoke boot room cabinetry",
+        "category": "joinery",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 396543
+      },
+      {
+        "filename": "fitted-wardrobes.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/fitted-wardrobes.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/09/os-doors-warbrobes1.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/09/os-doors-warbrobes1.jpg",
+        "alt": "Fitted bedroom wardrobes",
+        "category": "bedrooms",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 240032
+      },
+      {
+        "filename": "pantry.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/pantry.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/pantry1.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/pantry1.jpg",
+        "alt": "Open kitchen pantry with organised shelves",
+        "category": "pantries",
+        "width": 1246,
+        "height": 1246,
+        "bytes": 166694
+      },
+      {
+        "filename": "showroom.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/showroom.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/showroom1.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/showroom1.jpg",
+        "alt": "CNK Designs showroom exterior at dusk",
+        "category": "showroom",
+        "width": 960,
+        "height": 580,
+        "bytes": 55163
+      },
+      {
+        "filename": "bedroom.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/bedroom.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/grey-bedroom-1.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/grey-bedroom-1.jpg",
+        "alt": "Grey fitted wardrobe storage",
+        "category": "bedrooms",
+        "width": 720,
+        "height": 960,
+        "bytes": 36296
+      },
+      {
+        "filename": "kitchen-detail.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/kitchen-detail.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2025/03/AJ_27-scaled.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2025/03/AJ_27-scaled.jpg",
+        "alt": "White kitchen detail and quartz counter",
+        "category": "kitchens",
+        "width": 1707,
+        "height": 2560,
+        "bytes": 238954
+      },
+      {
+        "filename": "workshop.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/workshop.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/05/about-us.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/05/about-us.jpg",
+        "alt": "Dark kitchen cabinetry and island display",
+        "category": "kitchens",
+        "width": 1440,
+        "height": 1440,
+        "bytes": 70898
+      },
+      {
+        "filename": "showroom-interior.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/showroom-interior.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/showroom-interior2.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/showroom-interior2.jpg",
+        "alt": "Kitchen showroom interior",
+        "category": "showroom",
+        "width": 960,
+        "height": 722,
+        "bytes": 72925
+      },
+      {
+        "filename": "fleet.jpg",
+        "file": "/Users/niallorourke/Documents/dev/memory-nexus/tmp/fifth-assets/cnk-designs/photos/fleet.jpg",
+        "url": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/cnk-fleet.jpg",
+        "source": "https://cnkdesigns.co.uk/wp-content/uploads/2021/07/cnk-fleet.jpg",
+        "alt": "CNK Designs vehicles",
+        "category": "workshop",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 150608
+      }
+    ],
+    "notes": [
+      "Official Cloudflare-protected email decoded as colin@cnjoinery.com. Do not reuse invalid footer http://info@cnjoinery.com link.",
+      "No official opening hours found; consultations should be arranged.",
+      "Kitchen portfolio extends to 2025; omit arbitrary experience counts, current turnover/profit and price assumptions.",
+      "Natural Elements page inconsistently calls stone quartz and quartzite. Generic stone wording avoids selecting contradictory specification.",
+      "Images sourced from business\u2019s public website; rights remain with original owners.",
+      "Testimonials exist but omitted rather than use possibly stale individual endorsements."
+    ]
+  },
+  "rights": "Business imagery retains its original rights; demo/code sharing grants no image licence or endorsement."
+}

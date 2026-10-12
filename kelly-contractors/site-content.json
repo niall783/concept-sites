@@ -1,0 +1,205 @@
+{
+  "settings": {
+    "mark": "K",
+    "descriptor": "Contractors & plant hire",
+    "eyebrow": "BALLYNAHINCH \u00b7 WORKING ACROSS IRELAND",
+    "headline": "Groundwork.<br>Done with purpose.",
+    "intro": "Bulk earthworks, demolition, civil engineering and operated plant hire. Practical support from site preparation to the next phase.",
+    "primary": "Discuss the job",
+    "accent": "#a74c11",
+    "ink": "#242624",
+    "paper": "#f5f3ed",
+    "display": "sans",
+    "layout": "contractor",
+    "proof": [
+      [
+        "Family-run",
+        "Based in County Down"
+      ],
+      [
+        "Operated plant",
+        "Machines with qualified drivers"
+      ],
+      [
+        "Across Ireland",
+        "Private and commercial work"
+      ]
+    ],
+    "story": "People, plant.<br>And a practical plan.",
+    "range": "Set your project in motion.",
+    "gallery": "On site. At work.",
+    "name": "Kelly Contractors & Plant Hire",
+    "phone": "028 9756 4777",
+    "tel": "+442897564777",
+    "email": "norman@kellycontractorsni.com",
+    "address": "Ballymagarvey House, 10 Ballymaglave Road, Ballynahinch, County Down, BT24 8LX",
+    "mobile": "07885 647 012",
+    "mobile_tel": "+447885647012",
+    "slug": "kelly-contractors"
+  },
+  "services": [
+    {
+      "title": "Bulk earthworks",
+      "slug": "bulk-earthworks",
+      "short": "Prepare the ground for what comes next.",
+      "body": "Bulk earthworks and site clearance supported by heavy equipment and experienced operators. Discuss soil movement, site levels and access requirements. The range includes dozers with laser levelling, long-reach diggers and rock hammers.",
+      "points": [
+        "Site clearance",
+        "Earth moving and levelling",
+        "Heavy equipment with operators"
+      ],
+      "image": "9763135.jpg",
+      "source": "https://www.kellycontractorsni.co.uk/3466507.html"
+    },
+    {
+      "title": "Demolition",
+      "slug": "demolition",
+      "short": "A planned approach to clearing the site.",
+      "body": "Excavation and demolition services for buildings and structures. Discuss site assessment, access, utilities, waste removal and the equipment needed before agreeing the scope of work.",
+      "points": [
+        "Site and safety assessment",
+        "Utilities and waste planning",
+        "Hydraulic equipment and operators"
+      ],
+      "image": "9926303_300x232.jpg",
+      "source": "https://www.kellycontractorsni.co.uk/3466514.html"
+    },
+    {
+      "title": "Civil engineering",
+      "slug": "civil-engineering",
+      "short": "Practical support for your development.",
+      "body": "Civil engineering and geotechnical work tailored to the needs of the site. The team can discuss requirements and develop a plan for the staff and machinery needed.",
+      "points": [
+        "Civil engineering works",
+        "Geotechnical services",
+        "Project-specific planning"
+      ],
+      "image": "9763088.jpg",
+      "source": "https://www.kellycontractorsni.co.uk/3466525.html"
+    },
+    {
+      "title": "Plant hire with operators",
+      "slug": "plant-hire",
+      "short": "The machine and operator for the task.",
+      "body": "Heavy plant hire for private and commercial work, with qualified drivers. Discuss your location, site access, intended work and hire period. Current equipment and availability are confirmed by the team.",
+      "points": [
+        "Excavators and diggers",
+        "Dumpers and dump trucks",
+        "Telehandlers and rollers"
+      ],
+      "image": "9608138.png",
+      "source": "https://www.kellycontractorsni.co.uk/3466527.html"
+    }
+  ],
+  "sectors": [],
+  "gallery": [
+    {
+      "title": "Dozers in the plant yard",
+      "slug": "work-1",
+      "image": "9586233.jpg",
+      "category": "Plant",
+      "alt": "Dozers in the plant yard",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Excavators and diggers in the yard",
+      "slug": "work-2",
+      "image": "9586235.jpg",
+      "category": "Plant",
+      "alt": "Excavators and diggers in the yard",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Wheeled excavator",
+      "slug": "work-3",
+      "image": "9586237.jpg",
+      "category": "Plant",
+      "alt": "Wheeled excavator",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Articulated dump trucks",
+      "slug": "work-4",
+      "image": "9586239.jpg",
+      "category": "Plant",
+      "alt": "Articulated dump trucks",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Earthworks on a sloping site",
+      "slug": "work-5",
+      "image": "9608123.png",
+      "category": "Earthworks",
+      "alt": "Earthworks on a sloping site",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Plant working on an earthworks site",
+      "slug": "work-6",
+      "image": "9608124.png",
+      "category": "Earthworks",
+      "alt": "Plant working on an earthworks site",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Excavated site",
+      "slug": "work-7",
+      "image": "9608126.png",
+      "category": "Earthworks",
+      "alt": "Excavated site",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Cleared site with excavators",
+      "slug": "work-8",
+      "image": "9608128.png",
+      "category": "Earthworks",
+      "alt": "Cleared site with excavators",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Prepared development ground",
+      "slug": "work-9",
+      "image": "9608132.png",
+      "category": "Earthworks",
+      "alt": "Prepared development ground",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466509.html"
+    },
+    {
+      "title": "Excavator working beside a structure",
+      "slug": "work-10",
+      "image": "9926303_300x232.jpg",
+      "category": "Demolition",
+      "alt": "Excavator working beside a structure",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466514.html"
+    },
+    {
+      "title": "Building demolition in progress",
+      "slug": "work-11",
+      "image": "9926305_300x232.jpg",
+      "category": "Demolition",
+      "alt": "Building demolition in progress",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466514.html"
+    },
+    {
+      "title": "Civil engineering concrete structure",
+      "slug": "work-12",
+      "image": "9763478.jpg",
+      "category": "Civil Engineering",
+      "alt": "Civil engineering concrete structure",
+      "body": "",
+      "source": "https://www.kellycontractorsni.co.uk/3466525.html"
+    }
+  ]
+}

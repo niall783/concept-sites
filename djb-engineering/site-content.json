@@ -1,0 +1,268 @@
+{
+  "settings": {
+    "mark": "DJB",
+    "descriptor": "Bespoke gates & metalwork",
+    "eyebrow": "COMBER \u00b7 ESTABLISHED 1990",
+    "headline": "An entrance<br>with character.",
+    "intro": "Custom gates, railings, staircases and balconies. Designed, manufactured and installed around your property.",
+    "primary": "Discuss your design",
+    "accent": "#334d46",
+    "ink": "#242a29",
+    "paper": "#f3f5f0",
+    "display": "sans",
+    "layout": "metalwork",
+    "proof": [
+      [
+        "Since 1990",
+        "Metalwork in County Down"
+      ],
+      [
+        "Made to measure",
+        "Design, manufacture and installation"
+      ],
+      [
+        "Northern Ireland",
+        "Domestic and commercial projects"
+      ]
+    ],
+    "story": "Your setting.<br>Our craftsmanship.",
+    "range": "Metalwork with a purpose.",
+    "gallery": "Details that define a place.",
+    "name": "DJB Engineering",
+    "phone": "07966 250377",
+    "tel": "+447966250377",
+    "email": "info@djbengineeringni.co.uk",
+    "address": "35 Lisbarnet Road, Lisbane, Comber, Newtownards, BT23 6AW",
+    "landline": "028 9187 1303",
+    "landline_tel": "+442891871303",
+    "source": "https://djbengineeringni.co.uk/contact/",
+    "slug": "djb-engineering"
+  },
+  "services": [
+    {
+      "title": "Bespoke Gates",
+      "slug": "gates",
+      "short": "Made for your entrance.",
+      "body": "Gates designed around the opening, setting and style of your property. DJB produces manual and automatic gates, with swinging and sliding configurations for residential and commercial applications. Bring your own specification or develop a design with the team.",
+      "points": [
+        "Manual and automatic",
+        "Swinging and sliding",
+        "Modern and traditional designs"
+      ],
+      "image": "91235778_1460220914151198_7447735009391149056_n.jpg",
+      "source": "https://djbengineeringni.co.uk/wrought-iron-gates-bangor-co-down/"
+    },
+    {
+      "title": "Railings",
+      "slug": "railings",
+      "short": "Define the edge with considered steelwork.",
+      "body": "Straight or curved railings made to suit your property. DJB designs, manufactures and fits styles ranging from simple contemporary lines to classical detailing, for homes and commercial premises.",
+      "points": [
+        "Straight and curved layouts",
+        "Domestic and commercial",
+        "Design and fitting"
+      ],
+      "image": "9cf96d_2cc8a2e7f1028f5e406223833f7f939d.jpg",
+      "source": "https://djbengineeringni.co.uk/railings/"
+    },
+    {
+      "title": "Staircases",
+      "slug": "stairs",
+      "short": "Steel stairs shaped around the space.",
+      "body": "DJB manufactures and installs bespoke steel stairs for residential and commercial settings. The team can develop a design around your requirements or work from your own specification.",
+      "points": [
+        "Custom dimensions",
+        "Residential and commercial",
+        "Manufacture and installation"
+      ],
+      "image": "9cf96d_b71600901aef304657699fd4f8422610.jpg",
+      "source": "https://djbengineeringni.co.uk/stairs/"
+    },
+    {
+      "title": "Balconies",
+      "slug": "balconies",
+      "short": "Built around your view.",
+      "body": "Bespoke balconies designed and fabricated to suit the building, whether the brief calls for a compact structure or a larger installation. Discuss the layout and preferred style with the team.",
+      "points": [
+        "Made-to-measure structures",
+        "Modern and classical styles",
+        "Design and installation"
+      ],
+      "image": "9cf96d_56ff31c41b4ff34a268fdca41c63aed6.jpg",
+      "source": "https://djbengineeringni.co.uk/balconies/"
+    },
+    {
+      "title": "Dog Runs",
+      "slug": "dog-runs",
+      "short": "An enclosure made to fit.",
+      "body": "Custom dog runs manufactured in a range of sizes and duty levels. DJB can design an enclosure around your requirements or fabricate to an existing specification.",
+      "points": [
+        "Light and heavy duty enquiries",
+        "Custom sizes",
+        "Design to your specification"
+      ],
+      "image": "9cf96d_44098d64ae99fc12ab15cfdaed73bc5b.jpg",
+      "source": "https://djbengineeringni.co.uk/dog-runs/"
+    },
+    {
+      "title": "Bespoke Fabrication",
+      "slug": "fabrication",
+      "short": "Bring your steelwork brief to life.",
+      "body": "DJB manufactures custom steel structures for individual project requirements. Finishes can include galvanising and powder coating. Share drawings or discuss a design with the team.",
+      "points": [
+        "Custom steel structures",
+        "Galvanised finishes",
+        "Powder-coated finishes"
+      ],
+      "image": "9cf96d_4f47ff137a8c68661946ec52fe1f5624.jpg",
+      "source": "https://djbengineeringni.co.uk/miscellaneous/"
+    }
+  ],
+  "sectors": [],
+  "gallery": [
+    {
+      "title": "Black driveway gates between brick and stone pillars",
+      "slug": "work-1",
+      "image": "7-1.jpg",
+      "category": "Gates",
+      "alt": "Black driveway gates between brick and stone pillars",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/7-1.jpg"
+    },
+    {
+      "title": "Fabricated steel frames installed outdoors",
+      "slug": "work-2",
+      "image": "82590816_1397271663779457_1933256610625355776_n.jpg",
+      "category": "Fabrication",
+      "alt": "Fabricated steel frames installed outdoors",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/09/82590816_1397271663779457_1933256610625355776_n.jpg"
+    },
+    {
+      "title": "White interior guard rail beside a museum display",
+      "slug": "work-3",
+      "image": "52fec841.jpg",
+      "category": "Railings",
+      "alt": "White interior guard rail beside a museum display",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/52fec841.jpg"
+    },
+    {
+      "title": "Silver gates fitted within a stone archway",
+      "slug": "work-4",
+      "image": "qww989b98de14b6.jpg",
+      "category": "Gates",
+      "alt": "Silver gates fitted within a stone archway",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/qww989b98de14b6.jpg"
+    },
+    {
+      "title": "Black entrance gate between masonry pillars",
+      "slug": "work-5",
+      "image": "122.jpg",
+      "category": "Gates",
+      "alt": "Black entrance gate between masonry pillars",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/122.jpg"
+    },
+    {
+      "title": "Galvanised mesh dog enclosure",
+      "slug": "work-6",
+      "image": "63119848_n.jpg",
+      "category": "Dog Runs",
+      "alt": "Galvanised mesh dog enclosure",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/63119848_n.jpg"
+    },
+    {
+      "title": "Dark panelled driveway gate",
+      "slug": "work-7",
+      "image": "83917633_1397150150458275_2494247122656821248_n.jpg",
+      "category": "Gates",
+      "alt": "Dark panelled driveway gate",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/09/83917633_1397150150458275_2494247122656821248_n.jpg"
+    },
+    {
+      "title": "Interior protective railing beside a museum display",
+      "slug": "work-8",
+      "image": "ddcf0295ce272.jpg",
+      "category": "Railings",
+      "alt": "Interior protective railing beside a museum display",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/ddcf0295ce272.jpg"
+    },
+    {
+      "title": "External steel stairway and landing",
+      "slug": "work-9",
+      "image": "337518cae4dfb0-1.jpg",
+      "category": "Stairs",
+      "alt": "External steel stairway and landing",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/337518cae4dfb0-1.jpg"
+    },
+    {
+      "title": "Silver driveway gates between brick pillars",
+      "slug": "work-10",
+      "image": "s29cf96d_410ee6d17f12ab7419a67518cae4dfb0-1.jpg",
+      "category": "Gates",
+      "alt": "Silver driveway gates between brick pillars",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2023/11/s29cf96d_410ee6d17f12ab7419a67518cae4dfb0-1.jpg"
+    },
+    {
+      "title": "Decorative black driveway gates between stone pillars",
+      "slug": "work-11",
+      "image": "91235778_1460220914151198_7447735009391149056_n.jpg",
+      "category": "Gates",
+      "alt": "Decorative black driveway gates between stone pillars",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/10/91235778_1460220914151198_7447735009391149056_n.jpg"
+    },
+    {
+      "title": "Curved black railings beside a house",
+      "slug": "work-12",
+      "image": "9cf96d_2cc8a2e7f1028f5e406223833f7f939d.jpg",
+      "category": "Railings",
+      "alt": "Curved black railings beside a house",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/10/9cf96d_2cc8a2e7f1028f5e406223833f7f939d.jpg"
+    },
+    {
+      "title": "Galvanised exterior stairway and landing",
+      "slug": "work-13",
+      "image": "9cf96d_b71600901aef304657699fd4f8422610.jpg",
+      "category": "Stairs",
+      "alt": "Galvanised exterior stairway and landing",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/10/9cf96d_b71600901aef304657699fd4f8422610.jpg"
+    },
+    {
+      "title": "Elevated steel balcony attached to a house",
+      "slug": "work-14",
+      "image": "9cf96d_56ff31c41b4ff34a268fdca41c63aed6.jpg",
+      "category": "Balconies",
+      "alt": "Elevated steel balcony attached to a house",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/10/9cf96d_56ff31c41b4ff34a268fdca41c63aed6.jpg"
+    },
+    {
+      "title": "Galvanised mesh dog enclosure with gated entrance",
+      "slug": "work-15",
+      "image": "9cf96d_44098d64ae99fc12ab15cfdaed73bc5b.jpg",
+      "category": "Dog Runs",
+      "alt": "Galvanised mesh dog enclosure with gated entrance",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/10/9cf96d_44098d64ae99fc12ab15cfdaed73bc5b.jpg"
+    },
+    {
+      "title": "Custom fabricated metal structure installed outdoors",
+      "slug": "work-16",
+      "image": "9cf96d_4f47ff137a8c68661946ec52fe1f5624.jpg",
+      "category": "Fabrication",
+      "alt": "Custom fabricated metal structure installed outdoors",
+      "body": "",
+      "source": "https://djbengineeringni.co.uk/wp-content/uploads/2021/10/9cf96d_4f47ff137a8c68661946ec52fe1f5624.jpg"
+    }
+  ]
+}

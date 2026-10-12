@@ -1,0 +1,346 @@
+{
+  "checked": "2026-10-12",
+  "used_images": [
+    "gallery-newbuilds-10_seamourne.jpg",
+    "fabrication.jpg",
+    "01_profilecutting.jpg",
+    "gallery-manufacture-press.jpg",
+    "gallery-manufacture-machine_01.jpg",
+    "gallery-lengthening-06_lengthening.jpg",
+    "gallery-refurbish-scan0223.jpg",
+    "gallery-newbuilds-scan0222.jpg",
+    "scan0225.jpg",
+    "gallery-manufacture-machine_02.jpg",
+    "workbench.jpg",
+    "01_seamourne.jpg",
+    "gallery-refurbish-scan0224.jpg",
+    "gallery-lengthening-01_lengthening.jpg",
+    "gallery-lengthening-21_lengthening.jpg",
+    "gallery-slipways-01_slipway.jpg",
+    "gallery-slipways-03_slipway.jpg",
+    "shelterdeck.jpg",
+    "02_profilecutting.jpg",
+    "gallery-prawnwashers-01_prawnwasher.jpg",
+    "gallery-prawnwashers-02_prawnwasher.jpg",
+    "gallery-prawnwashers-03_prawnwasher.jpg"
+  ],
+  "original_records": {
+    "retrieved": "2026-10-12",
+    "official": "https://www.iannewell.co.uk/",
+    "pages": [
+      {
+        "url": "https://www.iannewell.co.uk/",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/about-us",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/boat-building",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/boat-refurbishing",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/navigation-buoys",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/aluminium-fabrication",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/parts-manufacturing",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/bespoke-manufacturing",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/sectors/farm-industry",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/services/fabrication-a-welding",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/services/profile-cutting",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/services/folding",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/services/machining",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/services/structural-steel",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/boat-newbuilds",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/boat-refurbish",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/work-boat-lenghtening",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/shelter-decks",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/slipways",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/prawn-washers",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/farm-machinery",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/tankers",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/gallery/machine-parts",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/find-us",
+        "status": 200
+      },
+      {
+        "url": "https://www.iannewell.co.uk/contact-us",
+        "status": 200
+      }
+    ],
+    "images": [
+      {
+        "filename": "gallery-newbuilds-10_seamourne.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-newbuilds-10_seamourne.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/newbuilds/10_seamourne.jpg",
+        "width": 600,
+        "height": 450,
+        "category": "boat-building",
+        "alt": "Red fishing vessel suspended by a crane beside the harbour"
+      },
+      {
+        "filename": "01_seamourne.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/01_seamourne.jpg",
+        "source": "https://www.iannewell.co.uk/images/01_seamourne.jpg",
+        "width": 700,
+        "height": 465,
+        "category": "boat-building",
+        "alt": "Vessel hull under construction inside the workshop"
+      },
+      {
+        "filename": "scan0225.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/scan0225.jpg",
+        "source": "https://www.iannewell.co.uk/images/scan0225.jpg",
+        "width": 896,
+        "height": 607,
+        "category": "aluminium-fabrication",
+        "alt": "Aluminium workboat moving across the harbour"
+      },
+      {
+        "filename": "gallery-newbuilds-scan0222.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-newbuilds-scan0222.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/newbuilds/Scan0222.jpg",
+        "width": 600,
+        "height": 412,
+        "category": "navigation-buoys",
+        "alt": "Fabricated navigation buoy inside the workshop"
+      },
+      {
+        "filename": "gallery-refurbish-scan0223.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-refurbish-scan0223.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/refurbish/Scan0223.jpg",
+        "width": 600,
+        "height": 419,
+        "category": "boat-refurbishment",
+        "alt": "Fishing vessel and fabricated wheelhouse in the workshop"
+      },
+      {
+        "filename": "gallery-refurbish-scan0224.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-refurbish-scan0224.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/refurbish/Scan0224.jpg",
+        "width": 600,
+        "height": 380,
+        "category": "boat-refurbishment",
+        "alt": "Fabricated steel wheelhouse outside the workshop"
+      },
+      {
+        "filename": "gallery-lengthening-01_lengthening.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-lengthening-01_lengthening.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/lengthening/01_lengthening.JPG",
+        "width": 600,
+        "height": 450,
+        "category": "vessel-lengthening",
+        "alt": "Workboat undergoing hull lengthening"
+      },
+      {
+        "filename": "gallery-lengthening-21_lengthening.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-lengthening-21_lengthening.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/lengthening/21_lengthening.JPG",
+        "width": 600,
+        "height": 450,
+        "category": "vessel-lengthening",
+        "alt": "Completed workboat alongside the harbour"
+      },
+      {
+        "filename": "gallery-slipways-01_slipway.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-slipways-01_slipway.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/slipways/01_slipway.JPG",
+        "width": 640,
+        "height": 427,
+        "category": "harbour",
+        "alt": "Kilkeel Harbour slipway"
+      },
+      {
+        "filename": "gallery-slipways-03_slipway.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-slipways-03_slipway.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/slipways/03_slipway.JPG",
+        "width": 640,
+        "height": 427,
+        "category": "harbour",
+        "alt": "Fishing vessels on the slipway"
+      },
+      {
+        "filename": "workbench.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/workbench.jpg",
+        "source": "https://www.iannewell.co.uk/images/workbench.jpg",
+        "width": 600,
+        "height": 400,
+        "category": "bespoke-manufacturing",
+        "alt": "Bespoke fabricated work area aboard a fishing vessel"
+      },
+      {
+        "filename": "shelterdeck.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/shelterdeck.jpg",
+        "source": "https://www.iannewell.co.uk/images/shelterdeck.jpg",
+        "width": 600,
+        "height": 450,
+        "category": "shelter-decks",
+        "alt": "Green fishing vessel with shelter deck in the harbour"
+      },
+      {
+        "filename": "fabrication.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/fabrication.jpg",
+        "source": "https://www.iannewell.co.uk/images/fabrication.jpg",
+        "width": 248,
+        "height": 330,
+        "category": "fabrication-welding",
+        "alt": "Metal fabrication inside the workshop"
+      },
+      {
+        "filename": "01_profilecutting.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/01_profilecutting.jpg",
+        "source": "https://www.iannewell.co.uk/images/01_ profilecutting.jpg",
+        "width": 314,
+        "height": 235,
+        "category": "profile-cutting",
+        "alt": "Profile-cutting machinery"
+      },
+      {
+        "filename": "02_profilecutting.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/02_profilecutting.jpg",
+        "source": "https://www.iannewell.co.uk/images/02_ profilecutting.jpg",
+        "width": 314,
+        "height": 235,
+        "category": "profile-cutting",
+        "alt": "Cut metal profiles"
+      },
+      {
+        "filename": "gallery-manufacture-press.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-manufacture-press.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/manufacture/press.JPG",
+        "width": 330,
+        "height": 220,
+        "category": "folding",
+        "alt": "Workshop press-brake equipment"
+      },
+      {
+        "filename": "gallery-manufacture-machine_01.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-manufacture-machine_01.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/manufacture/machine_01.jpg",
+        "width": 330,
+        "height": 248,
+        "category": "machining",
+        "alt": "Machining equipment in the workshop"
+      },
+      {
+        "filename": "gallery-manufacture-machine_02.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-manufacture-machine_02.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/manufacture/machine_02.jpg",
+        "width": 330,
+        "height": 248,
+        "category": "machining",
+        "alt": "Engineering production machinery"
+      },
+      {
+        "filename": "gallery-prawnwashers-01_prawnwasher.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-prawnwashers-01_prawnwasher.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/prawnwashers/01_prawnwasher.JPG",
+        "width": 480,
+        "height": 564,
+        "category": "prawn-washers",
+        "alt": "Fabricated prawn-washing equipment"
+      },
+      {
+        "filename": "gallery-prawnwashers-02_prawnwasher.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-prawnwashers-02_prawnwasher.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/prawnwashers/02_prawnwasher.JPG",
+        "width": 480,
+        "height": 598,
+        "category": "prawn-washers",
+        "alt": "Metal prawn-washing equipment"
+      },
+      {
+        "filename": "gallery-prawnwashers-03_prawnwasher.jpg",
+        "file": "tmp/fifth-assets/ian-newell/photos/gallery-prawnwashers-03_prawnwasher.jpg",
+        "source": "https://www.iannewell.co.uk/images/gallery/prawnwashers/03_prawnwasher.JPG",
+        "width": 480,
+        "height": 611,
+        "category": "prawn-washers",
+        "alt": "Prawn-washing assembly"
+      }
+    ],
+    "contact": {
+      "url": "https://www.iannewell.co.uk/contact-us",
+      "email": "info@iannewell.co.uk",
+      "email_verification": "Decoded HTML entities in official Joomla contact email-cloaking script",
+      "phone": "028 417 64972",
+      "fax": "028 417 69562",
+      "address": "The Harbour Kilkeel Co Down BT34 4AX Northern Ireland"
+    },
+    "uncertainties": [
+      "Official contact page obfuscates email via JavaScript entity concatenation; decoded published address info@iannewell.co.uk, not guessed.",
+      "The original site cites BSEN 287-1:2004, welding qualifications and safety certificates. Current validity not established, so excluded certification claims.",
+      "Original home mentions 35 years of experience and has 2011 copyright; do not convert this into a current founding date, age, staffing or certification claim.",
+      "Published facilities list three slipways for vessels up to16.5m, mobile-crane access up to250tonnes, joinery and machine-shop access. Confirm present availability for real delivery.",
+      "Published oxy/plasma capacities contain questionable material-method wording. Avoid repeating oxy-acetylene aluminium/stainless capability or treating dimensional limits as live verified capability.",
+      "Original gallery Farm machinery, Tankers and Machine parts pages empty; do not manufacture sample projects.",
+      "Images fetched from official website; they are historical portfolio photographs with no project dates published."
+    ]
+  },
+  "rights": "Business imagery retains its original rights; demo/code sharing grants no image licence or endorsement."
+}

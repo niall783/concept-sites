@@ -23,6 +23,11 @@ Website concepts, each in its own folder, for sharing, review and future develop
 | Doran Precision Engineering Ltd | [doran-engineering](doran-engineering/) | [View full demo](https://doran-engineering-demo.niall783.chatgpt.site) |
 | Herron Engineering Ltd | [herron-engineering](herron-engineering/) | [View full demo](https://herron-engineering-demo.niall783.chatgpt.site) |
 | W & C Glazing | [wc-glazing](wc-glazing/) | [View full demo](https://wc-glazing-demo.niall783.chatgpt.site) |
+| DJB Engineering | [djb-engineering](djb-engineering/) | [View full demo](https://djb-engineering-demo.niall783.chatgpt.site) |
+| CNK Designs | [cnk-designs](cnk-designs/) | [View full demo](https://cnk-designs-demo.niall783.chatgpt.site) |
+| Ian Newell Boat Building & Repair Ltd | [ian-newell](ian-newell/) | [View full demo](https://ian-newell-demo.niall783.chatgpt.site) |
+| Spiers Joinery Works | [spiers-joinery](spiers-joinery/) | [View full demo](https://spiers-joinery-demo.niall783.chatgpt.site) |
+| Kelly Contractors & Plant Hire | [kelly-contractors](kelly-contractors/) | [View full demo](https://kelly-contractors-demo.niall783.chatgpt.site) |
 
 ## Run a concept locally
 

@@ -1,0 +1,390 @@
+{
+  "settings": {
+    "mark": "IN",
+    "descriptor": "Marine & fabrication engineering",
+    "eyebrow": "KILKEEL HARBOUR \u00b7 COUNTY DOWN",
+    "headline": "Built for the sea.<br>Engineered for the job.",
+    "intro": "Boat building, refurbishment and metal fabrication from a workshop at Kilkeel Harbour. Marine experience. Practical engineering.",
+    "primary": "Discuss your project",
+    "accent": "#166b87",
+    "ink": "#0b2736",
+    "paper": "#f4f7f7",
+    "display": "sans",
+    "layout": "marine",
+    "proof": [
+      [
+        "Marine",
+        "New builds and refurbishment"
+      ],
+      [
+        "Fabrication",
+        "Steel, stainless steel and aluminium"
+      ],
+      [
+        "Kilkeel",
+        "Harbour-based workshop"
+      ]
+    ],
+    "story": "A harbour workshop.<br>A broad engineering capability.",
+    "range": "From vessel to component.",
+    "gallery": "Work from the workshop.",
+    "name": "Ian Newell Boat Building & Repair Ltd",
+    "phone": "028 4176 4972",
+    "tel": "+442841764972",
+    "email": "info@iannewell.co.uk",
+    "address": "The Harbour, Kilkeel, Co Down, BT34 4AX, Northern Ireland",
+    "fax": "028 4176 9562",
+    "slug": "ian-newell"
+  },
+  "services": [
+    {
+      "title": "Fabrication & Welding",
+      "slug": "fabrication-welding",
+      "short": "Metalwork for marine, industrial and bespoke requirements.",
+      "body": "Fabrication and welding in mild steel, stainless steel, aluminium and cast iron. The material range also includes S355, Weldox and Hardox. Share your drawings or application requirements to discuss suitable materials and fabrication.",
+      "points": [
+        "Steel and stainless steel",
+        "Aluminium fabrication",
+        "Project-specific metalwork"
+      ],
+      "source": "https://www.iannewell.co.uk/services/fabrication-a-welding",
+      "image": "fabrication.jpg"
+    },
+    {
+      "title": "Profile Cutting",
+      "slug": "profile-cutting",
+      "short": "Accurate shapes cut for your fabrication requirements.",
+      "body": "Computerised profile cutting for intricate shapes and repeat quantities. Oxy-acetylene and plasma cutting capabilities are listed for metal sheet. Discuss material, sheet size, thickness and quantity with the team before manufacture.",
+      "points": [
+        "Computerised cutting",
+        "Intricate profiles",
+        "Repeat quantities"
+      ],
+      "source": "https://www.iannewell.co.uk/services/profile-cutting",
+      "image": "01_profilecutting.jpg"
+    },
+    {
+      "title": "Folding",
+      "slug": "folding",
+      "short": "Sheet-metal cutting and forming.",
+      "body": "Guillotine and press-brake work for mild steel, stainless steel and aluminium. Computerised measuring and pressure control supports accurate forming for engineered parts and fabrication projects.",
+      "points": [
+        "Guillotine work",
+        "Press-brake folding",
+        "Engineering and machinery parts"
+      ],
+      "source": "https://www.iannewell.co.uk/services/folding",
+      "image": "gallery-manufacture-press.jpg"
+    },
+    {
+      "title": "Machining",
+      "slug": "machining",
+      "short": "Production parts for engineering applications.",
+      "body": "CNC lathe and milling capabilities support the supply of production parts for the engineering industry. Send drawings, material requirements and quantities to discuss manufacture.",
+      "points": [
+        "CNC turning",
+        "Milling",
+        "Production components"
+      ],
+      "source": "https://www.iannewell.co.uk/services/machining",
+      "image": "gallery-manufacture-machine_01.jpg"
+    },
+    {
+      "title": "Structural Steel",
+      "slug": "structural-steel",
+      "short": "Steelwork for construction projects.",
+      "body": "Structural steelwork for the construction industry, with onsite work including the erection of shuttering and cladding. Discuss drawings, site requirements and installation needs with the team.",
+      "points": [
+        "Construction steelwork",
+        "Onsite erection",
+        "Shuttering and cladding"
+      ],
+      "source": "https://www.iannewell.co.uk/services/structural-steel",
+      "image": "gallery-lengthening-06_lengthening.jpg"
+    }
+  ],
+  "sectors": [
+    {
+      "title": "Boat Building",
+      "slug": "sector-boat-building",
+      "short": "Steel and aluminium vessels built to customer requirements.",
+      "body": "New steel and aluminium boats built from kits designed to customer specifications. The service includes vessels up to 16.5 metres and shallow-draft, flat-bottom aluminium boats with onboard weighing and grading facilities for shell fishing.",
+      "points": [
+        "Steel and aluminium boats",
+        "Customer specifications",
+        "Shell-fishing vessels"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/boat-building",
+      "image": "gallery-newbuilds-10_seamourne.jpg"
+    },
+    {
+      "title": "Boat Refurbishment",
+      "slug": "sector-boat-refurbishment",
+      "short": "Interior, exterior and mechanical improvements for working vessels.",
+      "body": "Boat refurbishment covering interiors and exteriors, hull repairs, engines, cranes, deck machinery and handling systems. The team also undertakes netdrum work, vessel lengthening and shelter decks.",
+      "points": [
+        "Hull repair and lengthening",
+        "Deck machinery and handling",
+        "Shelter decks and wheelhouses"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/boat-refurbishing",
+      "image": "gallery-refurbish-scan0223.jpg"
+    },
+    {
+      "title": "Navigation Buoys",
+      "slug": "sector-navigation-buoys",
+      "short": "Fabricated navigation buoys for shipping channels.",
+      "body": "Navigation buoys manufactured with a hull-type body and keel. The design provides buoyancy and working space for channel-marking requirements.",
+      "points": [
+        "Channel navigation",
+        "Hull-type buoy bodies",
+        "Fabricated keel structures"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/navigation-buoys",
+      "image": "gallery-newbuilds-scan0222.jpg"
+    },
+    {
+      "title": "Aluminium Fabrication",
+      "slug": "sector-aluminium-fabrication",
+      "short": "Marine and transport fabrication in aluminium.",
+      "body": "Aluminium fabrication includes fishing vessels, wheelhouses, shelter decks and hatches, alongside prawn washers, conveyors, hoppers and lorry bodies.",
+      "points": [
+        "Marine structures",
+        "Processing and handling equipment",
+        "Lorry bodies"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/aluminium-fabrication",
+      "image": "scan0225.jpg"
+    },
+    {
+      "title": "Parts Manufacturing",
+      "slug": "sector-parts-manufacturing",
+      "short": "Precision parts for engineering and machinery.",
+      "body": "Manufacture and supply of precision parts and equipment for engineering applications. Published examples include forklift parts, farm-machinery parts and components for the construction industry.",
+      "points": [
+        "Forklift components",
+        "Farm-machinery parts",
+        "Construction equipment parts"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/parts-manufacturing",
+      "image": "gallery-manufacture-machine_02.jpg"
+    },
+    {
+      "title": "Bespoke Manufacturing",
+      "slug": "sector-bespoke-manufacturing",
+      "short": "Custom metalwork developed around your needs.",
+      "body": "Work with the team to design and manufacture bespoke items to meet specific requirements. Share the problem, dimensions and intended use to begin a practical manufacturing discussion.",
+      "points": [
+        "Customer-led design",
+        "Application-specific manufacture",
+        "Marine and industrial fabrication"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/bespoke-manufacturing",
+      "image": "workbench.jpg"
+    },
+    {
+      "title": "Farm Machinery",
+      "slug": "sector-farm-machinery",
+      "short": "Repairs and modifications for agricultural equipment.",
+      "body": "Repairs to farm machinery and changes to existing equipment to extend its capability. Contact the team to discuss the machine, damage or modification required.",
+      "points": [
+        "Machinery repairs",
+        "Equipment modifications",
+        "Replacement components"
+      ],
+      "source": "https://www.iannewell.co.uk/sectors/farm-industry",
+      "image": "gallery-manufacture-machine_01.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Red fishing vessel suspended by a crane beside the harbour",
+      "slug": "work-1",
+      "image": "gallery-newbuilds-10_seamourne.jpg",
+      "category": "Boat Building",
+      "alt": "Red fishing vessel suspended by a crane beside the harbour",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/newbuilds/10_seamourne.jpg"
+    },
+    {
+      "title": "Vessel hull under construction inside the workshop",
+      "slug": "work-2",
+      "image": "01_seamourne.jpg",
+      "category": "Boat Building",
+      "alt": "Vessel hull under construction inside the workshop",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/01_seamourne.jpg"
+    },
+    {
+      "title": "Aluminium workboat moving across the harbour",
+      "slug": "work-3",
+      "image": "scan0225.jpg",
+      "category": "Aluminium Fabrication",
+      "alt": "Aluminium workboat moving across the harbour",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/scan0225.jpg"
+    },
+    {
+      "title": "Fabricated navigation buoy inside the workshop",
+      "slug": "work-4",
+      "image": "gallery-newbuilds-scan0222.jpg",
+      "category": "Navigation Buoys",
+      "alt": "Fabricated navigation buoy inside the workshop",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/newbuilds/Scan0222.jpg"
+    },
+    {
+      "title": "Fishing vessel and fabricated wheelhouse in the workshop",
+      "slug": "work-5",
+      "image": "gallery-refurbish-scan0223.jpg",
+      "category": "Boat Refurbishment",
+      "alt": "Fishing vessel and fabricated wheelhouse in the workshop",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/refurbish/Scan0223.jpg"
+    },
+    {
+      "title": "Fabricated steel wheelhouse outside the workshop",
+      "slug": "work-6",
+      "image": "gallery-refurbish-scan0224.jpg",
+      "category": "Boat Refurbishment",
+      "alt": "Fabricated steel wheelhouse outside the workshop",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/refurbish/Scan0224.jpg"
+    },
+    {
+      "title": "Workboat undergoing hull lengthening",
+      "slug": "work-7",
+      "image": "gallery-lengthening-01_lengthening.jpg",
+      "category": "Vessel Lengthening",
+      "alt": "Workboat undergoing hull lengthening",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/lengthening/01_lengthening.JPG"
+    },
+    {
+      "title": "Completed workboat alongside the harbour",
+      "slug": "work-8",
+      "image": "gallery-lengthening-21_lengthening.jpg",
+      "category": "Vessel Lengthening",
+      "alt": "Completed workboat alongside the harbour",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/lengthening/21_lengthening.JPG"
+    },
+    {
+      "title": "Kilkeel Harbour slipway",
+      "slug": "work-9",
+      "image": "gallery-slipways-01_slipway.jpg",
+      "category": "Harbour",
+      "alt": "Kilkeel Harbour slipway",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/slipways/01_slipway.JPG"
+    },
+    {
+      "title": "Fishing vessels on the slipway",
+      "slug": "work-10",
+      "image": "gallery-slipways-03_slipway.jpg",
+      "category": "Harbour",
+      "alt": "Fishing vessels on the slipway",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/slipways/03_slipway.JPG"
+    },
+    {
+      "title": "Bespoke fabricated work area aboard a fishing vessel",
+      "slug": "work-11",
+      "image": "workbench.jpg",
+      "category": "Bespoke Manufacturing",
+      "alt": "Bespoke fabricated work area aboard a fishing vessel",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/workbench.jpg"
+    },
+    {
+      "title": "Green fishing vessel with shelter deck in the harbour",
+      "slug": "work-12",
+      "image": "shelterdeck.jpg",
+      "category": "Shelter Decks",
+      "alt": "Green fishing vessel with shelter deck in the harbour",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/shelterdeck.jpg"
+    },
+    {
+      "title": "Metal fabrication inside the workshop",
+      "slug": "work-13",
+      "image": "fabrication.jpg",
+      "category": "Fabrication Welding",
+      "alt": "Metal fabrication inside the workshop",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/fabrication.jpg"
+    },
+    {
+      "title": "Profile-cutting machinery",
+      "slug": "work-14",
+      "image": "01_profilecutting.jpg",
+      "category": "Profile Cutting",
+      "alt": "Profile-cutting machinery",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/01_ profilecutting.jpg"
+    },
+    {
+      "title": "Cut metal profiles",
+      "slug": "work-15",
+      "image": "02_profilecutting.jpg",
+      "category": "Profile Cutting",
+      "alt": "Cut metal profiles",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/02_ profilecutting.jpg"
+    },
+    {
+      "title": "Workshop press-brake equipment",
+      "slug": "work-16",
+      "image": "gallery-manufacture-press.jpg",
+      "category": "Folding",
+      "alt": "Workshop press-brake equipment",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/manufacture/press.JPG"
+    },
+    {
+      "title": "Machining equipment in the workshop",
+      "slug": "work-17",
+      "image": "gallery-manufacture-machine_01.jpg",
+      "category": "Machining",
+      "alt": "Machining equipment in the workshop",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/manufacture/machine_01.jpg"
+    },
+    {
+      "title": "Engineering production machinery",
+      "slug": "work-18",
+      "image": "gallery-manufacture-machine_02.jpg",
+      "category": "Machining",
+      "alt": "Engineering production machinery",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/manufacture/machine_02.jpg"
+    },
+    {
+      "title": "Fabricated prawn-washing equipment",
+      "slug": "work-19",
+      "image": "gallery-prawnwashers-01_prawnwasher.jpg",
+      "category": "Prawn Washers",
+      "alt": "Fabricated prawn-washing equipment",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/prawnwashers/01_prawnwasher.JPG"
+    },
+    {
+      "title": "Metal prawn-washing equipment",
+      "slug": "work-20",
+      "image": "gallery-prawnwashers-02_prawnwasher.jpg",
+      "category": "Prawn Washers",
+      "alt": "Metal prawn-washing equipment",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/prawnwashers/02_prawnwasher.JPG"
+    },
+    {
+      "title": "Prawn-washing assembly",
+      "slug": "work-21",
+      "image": "gallery-prawnwashers-03_prawnwasher.jpg",
+      "category": "Prawn Washers",
+      "alt": "Prawn-washing assembly",
+      "body": "",
+      "source": "https://www.iannewell.co.uk/images/gallery/prawnwashers/03_prawnwasher.JPG"
+    }
+  ]
+}

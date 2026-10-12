@@ -1,0 +1,205 @@
+{
+  "settings": {
+    "mark": "SJ",
+    "descriptor": "Bespoke timber joinery",
+    "eyebrow": "KILKEEL \u00b7 COUNTY DOWN",
+    "headline": "Timber, shaped<br>to your home.",
+    "intro": "Bespoke staircases, doors, windows and church joinery. Made in a family workshop, with care for the details.",
+    "primary": "Discuss your joinery",
+    "accent": "#91432e",
+    "ink": "#302922",
+    "paper": "#faf4e9",
+    "display": "serif",
+    "layout": "joinery",
+    "proof": [
+      [
+        "Family workshop",
+        "Based in Kilkeel"
+      ],
+      [
+        "Bespoke manufacture",
+        "Made around the space"
+      ],
+      [
+        "County Down & beyond",
+        "Homes and shared spaces"
+      ]
+    ],
+    "story": "A family workshop.<br>A personal way of working.",
+    "range": "Made to belong.",
+    "gallery": "The grain. The detail. The finish.",
+    "name": "Spiers Joinery Works",
+    "phone": "028 4176 3570",
+    "tel": "+442841763570",
+    "email": "spiersjoineryworks@gmail.com",
+    "address": "50 Carrigenagh Road, Kilkeel, Newry, BT34 4PY",
+    "mobile": "07746 672 693",
+    "mobile_tel": "+447746672693",
+    "slug": "spiers-joinery"
+  },
+  "services": [
+    {
+      "title": "Bespoke staircases",
+      "slug": "staircases",
+      "short": "A staircase made for your space.",
+      "body": "Bespoke timber stairs are manufactured to suit the property. Explore the shape, timber detailing and balustrade treatment with the workshop, from a first idea to a finished feature.",
+      "points": [
+        "Layout and dimensions",
+        "Timber and detailing",
+        "Balustrades and handrails"
+      ],
+      "image": "Satellite_1543909012.jpg",
+      "source": "https://www.spiersjoinery.co.uk/joinery-services"
+    },
+    {
+      "title": "Doors & windows",
+      "slug": "doors-windows",
+      "short": "Timber details that welcome you home.",
+      "body": "Discuss purpose-made doors and windows, including entrance features and joinery matched to the character of your home. Bring the opening dimensions and a description of the style you have in mind.",
+      "points": [
+        "Entrance doors",
+        "Timber windows",
+        "Bespoke proportions"
+      ],
+      "image": "Satellite_1445894360.jpg",
+      "source": "https://www.spiersjoinery.co.uk/joinery-services"
+    },
+    {
+      "title": "Tables & custom joinery",
+      "slug": "custom-joinery",
+      "short": "Made around the way you live.",
+      "body": "The workshop makes tables and custom timber features. Talk through your intended use, dimensions and material preferences to establish the right approach.",
+      "points": [
+        "Purpose-made tables",
+        "Individual timber features",
+        "Bespoke manufacture"
+      ],
+      "image": "Satellite_1521196502.png",
+      "source": "https://www.spiersjoinery.co.uk/joinery-services"
+    },
+    {
+      "title": "Church joinery",
+      "slug": "church-joinery",
+      "short": "Craftsmanship for a shared space.",
+      "body": "Bespoke church work includes pulpits and pews. Discuss the setting, existing timber finishes and practical needs of the space with the team.",
+      "points": [
+        "Pulpits",
+        "Pews",
+        "Made-to-measure timber work"
+      ],
+      "image": "Satellite_1620043277.jpg",
+      "source": "https://www.spiersjoinery.co.uk/joinery-services"
+    }
+  ],
+  "sectors": [],
+  "gallery": [
+    {
+      "title": "Turned timber stair balusters",
+      "slug": "work-1",
+      "image": "Satellite_1543909012.jpg",
+      "category": "Staircases",
+      "alt": "Turned timber stair balusters",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Entrance door with a fanlight in the workshop",
+      "slug": "work-2",
+      "image": "Satellite_1468176381.jpg",
+      "category": "Doors & Windows",
+      "alt": "Entrance door with a fanlight in the workshop",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Timber church pulpit",
+      "slug": "work-3",
+      "image": "Satellite_391471131.jpg",
+      "category": "Church Joinery",
+      "alt": "Timber church pulpit",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Finished timber entrance door and fanlight",
+      "slug": "work-4",
+      "image": "Satellite_1445894360.jpg",
+      "category": "Doors & Windows",
+      "alt": "Finished timber entrance door and fanlight",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Timber joinery being assembled in the workshop",
+      "slug": "work-5",
+      "image": "Satellite_648081680.png",
+      "category": "Workshop",
+      "alt": "Timber joinery being assembled in the workshop",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Open timber staircase",
+      "slug": "work-6",
+      "image": "Satellite_965282892.png",
+      "category": "Staircases",
+      "alt": "Open timber staircase",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Timber staircase and handrail",
+      "slug": "work-7",
+      "image": "Satellite_1837114336.jpg",
+      "category": "Staircases",
+      "alt": "Timber staircase and handrail",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Staircase assembly outside the joinery workshop",
+      "slug": "work-8",
+      "image": "Satellite_1878015381.jpg",
+      "category": "Workshop",
+      "alt": "Staircase assembly outside the joinery workshop",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Finished church pulpit with timber panelling",
+      "slug": "work-9",
+      "image": "Satellite_1620043277.jpg",
+      "category": "Church Joinery",
+      "alt": "Finished church pulpit with timber panelling",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Entrance door with glazed sidelights",
+      "slug": "work-10",
+      "image": "Satellite_2097993138.jpg",
+      "category": "Doors & Windows",
+      "alt": "Entrance door with glazed sidelights",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Carved timber handrail detail",
+      "slug": "work-11",
+      "image": "Satellite_1521196502.png",
+      "category": "Staircases",
+      "alt": "Carved timber handrail detail",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    },
+    {
+      "title": "Staircase with metal balustrade detailing",
+      "slug": "work-12",
+      "image": "Satellite_1242034485.png",
+      "category": "Staircases",
+      "alt": "Staircase with metal balustrade detailing",
+      "body": "",
+      "source": "https://www.spiersjoinery.co.uk/joinery-gallery"
+    }
+  ]
+}

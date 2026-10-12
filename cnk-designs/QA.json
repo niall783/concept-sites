@@ -1,0 +1,88 @@
+{
+  "slug": "cnk-designs",
+  "scope": "Static demonstration: visitor browsing and locally prepared enquiry; no external submission",
+  "structure": {
+    "slug": "cnk-designs",
+    "pages": 20,
+    "local_files_checked": true
+  },
+  "responsive": [
+    {
+      "ctaTop": 489,
+      "documentWidth": 320,
+      "width": 320
+    },
+    {
+      "ctaTop": 427,
+      "documentWidth": 360,
+      "width": 360
+    },
+    {
+      "ctaTop": 399,
+      "documentWidth": 390,
+      "width": 390
+    },
+    {
+      "ctaTop": 399,
+      "documentWidth": 430,
+      "width": 430
+    },
+    {
+      "ctaTop": 437,
+      "documentWidth": 768,
+      "width": 768
+    },
+    {
+      "ctaTop": 595,
+      "documentWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "interaction": {
+    "opened": "true",
+    "closed": "false",
+    "draftContainsTest": true,
+    "mailto": true,
+    "contactWidth": 390
+  },
+  "gallery": {
+    "category": "Kitchen",
+    "filtered": {
+      "status": "4 examples \u00b7 Kitchen",
+      "visible": [
+        "Kitchen",
+        "Kitchen",
+        "Kitchen",
+        "Kitchen"
+      ]
+    },
+    "resetCount": 7
+  },
+  "detail": {
+    "ctaTop": 292,
+    "width": 390,
+    "value": "bespoke-kitchens",
+    "route": "bespoke-kitchens.html"
+  },
+  "rubric": {
+    "Clarity": 3,
+    "Hierarchy": 3,
+    "Typography": 3,
+    "Spacing": 3,
+    "Restraint": 2,
+    "Character": 2,
+    "Consistency": 3,
+    "Interaction": 2,
+    "Responsive": 3,
+    "Accessibility": 2,
+    "Safety": 3,
+    "Polish": 2
+  },
+  "score": 31,
+  "limits": [
+    "No business approval or official migration",
+    "No current profitability, availability or specification assurance",
+    "No full assistive-technology audit",
+    "No server enquiry submission"
+  ]
+}

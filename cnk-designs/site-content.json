@@ -1,0 +1,178 @@
+{
+  "settings": {
+    "mark": "CNK",
+    "descriptor": "Bespoke kitchens & interiors",
+    "eyebrow": "DESIGNED & MADE IN BALLYNAHINCH",
+    "headline": "A space that<br>feels like yours.",
+    "intro": "Kitchens, bedrooms and cabinetry designed, made and fitted by one team. Thoughtful details, made around your home.",
+    "primary": "Plan your space",
+    "accent": "#705839",
+    "ink": "#292b24",
+    "paper": "#f6f3ed",
+    "display": "serif",
+    "layout": "interiors",
+    "proof": [
+      [
+        "Design",
+        "Ideas brought into focus"
+      ],
+      [
+        "Make",
+        "Handmade in our workshop"
+      ],
+      [
+        "Fit",
+        "Installed by our team"
+      ]
+    ],
+    "story": "From the first conversation.<br>To the last considered detail.",
+    "range": "Rooms made for living.",
+    "gallery": "Spaces, made personal.",
+    "name": "CNK Designs",
+    "email": "colin@cnjoinery.com",
+    "phone": "028 9756 5869",
+    "tel": "+442897565869",
+    "mobile": "07775 634296",
+    "mobile_tel": "+447775634296",
+    "address": "26 Mountview Road, Ballynahinch, Co. Down, BT24 8JR",
+    "slug": "cnk-designs"
+  },
+  "services": [
+    {
+      "title": "Bespoke Kitchens",
+      "slug": "bespoke-kitchens",
+      "short": "A kitchen designed for the way you live.",
+      "body": "From a blank canvas or your own ideas, CNK Designs creates a kitchen around your space, style and budget. The team designs, manufactures and installs each commission, including cabinetry and appliance integration. Kitchens are assembled in the workshop before fitting.",
+      "points": [
+        "Individual kitchen design",
+        "Handmade cabinetry and doors",
+        "Appliance planning and installation",
+        "Workshop assembly and fitting"
+      ],
+      "source": "https://cnkdesigns.co.uk/kitchens/",
+      "image": "hero-white-kitchen.jpg"
+    },
+    {
+      "title": "Bedrooms & Wardrobes",
+      "slug": "bedrooms-wardrobes",
+      "short": "Storage that fits your room and your routine.",
+      "body": "CNK Designs listens to how you use your bedroom, then develops 3D elevations to plan the furniture and storage. Bespoke elements are made in the company\u2019s workshop. Fitted wardrobes and considered corner storage feature in the portfolio.",
+      "points": [
+        "Bedroom consultation",
+        "3D elevation designs",
+        "Custom furniture",
+        "Fitted wardrobes and corner storage"
+      ],
+      "source": "https://cnkdesigns.co.uk/bedrooms/",
+      "image": "bedroom.jpg"
+    },
+    {
+      "title": "Pantries & Utility Spaces",
+      "slug": "pantries-utility",
+      "short": "Make the practical spaces work beautifully.",
+      "body": "Pantry cabinetry can be arranged around the storage and appliances you want to keep close at hand. Options illustrated in completed work include shelving, spice racks, drawers and lighting, with wood, colour and finish choices. Utility spaces can be planned alongside the kitchen.",
+      "points": [
+        "Pantry design",
+        "Shelving and spice racks",
+        "Drawer configurations",
+        "Utility cabinetry"
+      ],
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/pantry-gallery/",
+      "image": "pantry.jpg"
+    },
+    {
+      "title": "Boot Rooms & Bespoke Joinery",
+      "slug": "boot-rooms-joinery",
+      "short": "Thoughtful cabinetry beyond the kitchen.",
+      "body": "The workshop also creates bespoke joinery and cabinetry for other spaces. Completed work includes a boot room with a distinctive wellie storage feature. Discuss the room, practical needs and finish with the team.",
+      "points": [
+        "Boot room cabinetry",
+        "Storage shaped around your needs",
+        "In-house manufacture",
+        "Coordinated finishes"
+      ],
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/bespoke-boot-room/",
+      "image": "boot-room.jpg"
+    },
+    {
+      "title": "Design & Installation",
+      "slug": "design-installation",
+      "short": "One team from the first conversation to the final fitting.",
+      "body": "CNK Designs brings consultation, 3D drawings, manufacture and installation together. Designs are made and preassembled in the Ballynahinch workshop, with appliances considered as part of the kitchen plan.",
+      "points": [
+        "Consultation",
+        "3D drawings",
+        "Workshop manufacture",
+        "Installation"
+      ],
+      "source": "https://cnkdesigns.co.uk/about-us/",
+      "image": "fleet.jpg"
+    }
+  ],
+  "sectors": [],
+  "gallery": [
+    {
+      "title": "Brilliant White Traditional Contrast",
+      "slug": "project-brilliant-white-traditional-contrast",
+      "image": "hero-white-kitchen.jpg",
+      "category": "Kitchen",
+      "alt": "Brilliant White Traditional Contrast",
+      "body": "Brilliant white cabinetry frames an existing red brick Aga surround. Quartz worktops, reeded glass doors and a concealed utility entrance bring practical details into a traditional setting.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/traditional-contrast/"
+    },
+    {
+      "title": "Smoke Green Elegance",
+      "slug": "project-smoke-green-elegance",
+      "image": "smoke-green-kitchen.jpg",
+      "category": "Kitchen",
+      "alt": "Smoke Green Elegance",
+      "body": "Smoke green cabinetry, oak interiors and antique brushed brass hardware are paired with Ivory Fossil quartz. Floor-to-ceiling storage, pantry lighting and a corner pull-out support everyday use.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/smoke-green-kitchen-elegance/"
+    },
+    {
+      "title": "Luxury in Natural Elements",
+      "slug": "project-luxury-in-natural-elements",
+      "image": "oak-kitchen.png",
+      "category": "Kitchen",
+      "alt": "Luxury in Natural Elements",
+      "body": "Varnished oak cabinetry and brass handles create a warm kitchen with stone worktops, integrated storage and a coordinated utility room.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/luxury-in-natural-elements/"
+    },
+    {
+      "title": "Walnut and Quartz Combination",
+      "slug": "project-walnut-and-quartz-combination",
+      "image": "walnut-quartz-kitchen.jpg",
+      "category": "Kitchen",
+      "alt": "Walnut and Quartz Combination",
+      "body": "In-frame walnut cabinetry is paired with Mandalay quartz, brass hardware and a concealed pantry and utility space. The island includes a bespoke area for the household\u2019s dog bowls.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/walnut-and-quartz-culinary-combination/"
+    },
+    {
+      "title": "Bespoke Boot Room",
+      "slug": "project-bespoke-boot-room",
+      "image": "boot-room.jpg",
+      "category": "Bespoke joinery",
+      "alt": "Bespoke Boot Room",
+      "body": "A locally fitted boot room with custom cabinetry and a distinctive curved wellie storage feature.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/bespoke-boot-room/"
+    },
+    {
+      "title": "Fitted Wardrobes Feature",
+      "slug": "project-fitted-wardrobes-feature",
+      "image": "fitted-wardrobes.jpg",
+      "category": "Bedroom",
+      "alt": "Fitted Wardrobes Feature",
+      "body": "Two rooms with fitted wardrobes and corner storage designed to make their contents easier to reach.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/fitted-wardrobes-feature/"
+    },
+    {
+      "title": "Pantry Gallery",
+      "slug": "project-pantry-gallery",
+      "image": "pantry.jpg",
+      "category": "Pantries",
+      "alt": "Pantry Gallery",
+      "body": "A selection of bespoke pantry arrangements with timber interiors, drawers, spice racks and integrated space for small appliances.",
+      "source": "https://cnkdesigns.co.uk/cnk_designs_portfolio/pantry-gallery/"
+    }
+  ]
+}
