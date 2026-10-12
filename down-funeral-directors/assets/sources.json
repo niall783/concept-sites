@@ -1,0 +1,55 @@
+{
+  "checked": "2026-10-12",
+  "rights": "Business-owned original photographs retain their rights. No open licence found. Files may be resized for web delivery; no fictional projects or scenes are implied.",
+  "used_files": [
+    "about-image-2.jpg",
+    "home-image.jpg",
+    "site-banner.jpg"
+  ],
+  "original_records": [
+    {
+      "filename": "site-banner.jpg",
+      "url": "https://static.wixstatic.com/media/90a441_9dd8e82990534403ac36654b0c3580dc~mv2.jpg",
+      "source_page": "https://www.downfuneraldirectors.com/",
+      "caption": "Existing site banner",
+      "dimensions": [
+        1996,
+        703
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "home-image.jpg",
+      "url": "https://static.wixstatic.com/media/90a441_ac6b9035295742bcb02003610018d5d4~mv2.jpg",
+      "source_page": "https://www.downfuneraldirectors.com/",
+      "caption": "Existing homepage illustration",
+      "dimensions": [
+        1000,
+        664
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "about-image-1.jpg",
+      "url": "https://static.wixstatic.com/media/90a441_31bc3180812a4cada3ed809151717f5c~mv2.jpg",
+      "source_page": "https://www.downfuneraldirectors.com/about-us",
+      "caption": "Existing about page image",
+      "dimensions": [
+        1000,
+        563
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "about-image-2.jpg",
+      "url": "https://static.wixstatic.com/media/90a441_b9dfa0b40d2b4a07a2a14872d29c15c5~mv2.jpg",
+      "source_page": "https://www.downfuneraldirectors.com/about-us",
+      "caption": "Existing about page image",
+      "dimensions": [
+        1000,
+        667
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    }
+  ]
+}

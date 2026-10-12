@@ -1,0 +1,55 @@
+{
+  "checked": "2026-10-12",
+  "rights": "Business-owned original photographs retain their rights. No open licence found. Files may be resized for web delivery; no fictional projects or scenes are implied.",
+  "used_files": [
+    "plan-ahead.jpg",
+    "premises-hero.jpg",
+    "services.jpg"
+  ],
+  "original_records": [
+    {
+      "filename": "premises-hero.jpg",
+      "url": "https://static.wixstatic.com/media/81d700_334d5ea930d144e8b4776bcf2e8d2a74~mv2.jpg",
+      "source_page": "https://www.mjsaweyandsons.com/",
+      "caption": "M J Sawey & Sons premises homepage photograph",
+      "dimensions": [
+        3000,
+        2019
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "premises.jpg",
+      "url": "https://static.wixstatic.com/media/81d700_dd0c8a8ab5ca4fd19b0485bbe5b9e5eb~mv2.jpg",
+      "source_page": "https://www.mjsaweyandsons.com/premises",
+      "caption": "M J Sawey & Sons premises photograph",
+      "dimensions": [
+        3792,
+        2552
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "services.jpg",
+      "url": "https://static.wixstatic.com/media/81d700_affa7d43736d47e88c00c5f22cde92d2~mv2.jpg",
+      "source_page": "https://www.mjsaweyandsons.com/copy-of-premises-1",
+      "caption": "Original services page photograph",
+      "dimensions": [
+        4116,
+        2848
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "plan-ahead.jpg",
+      "url": "https://static.wixstatic.com/media/81d700_8e2a01d6b2034ba2afe71341e14c11c5~mv2.jpg",
+      "source_page": "https://www.mjsaweyandsons.com/copy-of-premises",
+      "caption": "Original plan ahead page photograph",
+      "dimensions": [
+        9248,
+        6936
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    }
+  ]
+}

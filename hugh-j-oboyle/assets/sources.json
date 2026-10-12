@@ -1,0 +1,115 @@
+{
+  "checked": "2026-10-12",
+  "rights": "Business-owned original photographs retain their rights. No open licence found. Files may be resized for web delivery; no fictional projects or scenes are implied.",
+  "used_files": [
+    "cumulus-heights.jpg",
+    "galgorm.jpg",
+    "iveagh-nursery.jpg",
+    "kensington-drive.jpg",
+    "killyleagh-castle.jpg",
+    "mew-optic-hero.jpg",
+    "montalto-visitor-centre.jpg",
+    "rabbit-hotel.jpg"
+  ],
+  "original_records": [
+    {
+      "filename": "mew-optic-hero.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/banner/25f11d0.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/",
+      "caption": "Mew Optic Titanic Walkway",
+      "dimensions": [
+        2000,
+        700
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "mew-optic-hero-2.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/banner/4516e33.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/",
+      "caption": "Mew Optic Titanic Walkway",
+      "dimensions": [
+        2000,
+        700
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "kensington-drive.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/b645ce9.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/",
+      "caption": "Kensington Drive, Bangor \u2014 residential",
+      "dimensions": [
+        900,
+        600
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "iveagh-nursery.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/aedc5ee.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/",
+      "caption": "Iveagh Nursery Unit, Rathfriland \u2014 Education Authority",
+      "dimensions": [
+        4032,
+        3024
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "cumulus-heights.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/f6cd02a.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/",
+      "caption": "Cumulus Heights, Downpatrick \u2014 Mainstay DRP",
+      "dimensions": [
+        900,
+        600
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "galgorm.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/13d60e3.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/",
+      "caption": "Galgorm Resort & Spa, Ballymena \u2014 Galgorm Manor Hotel Ltd",
+      "dimensions": [
+        900,
+        506
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "rabbit-hotel.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/3bce77f.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/Project-gallery.html?catID=4",
+      "caption": "The Rabbit Hotel \u2014 Pig & Chicken Inn Limited",
+      "dimensions": [
+        4032,
+        3024
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "montalto-visitor-centre.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/31c3af4.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/Project-gallery.html?catID=4",
+      "caption": "New Visitor Centre & Cafe at Montalto, Ballynahinch \u2014 Montalto Estates",
+      "dimensions": [
+        1094,
+        768
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    },
+    {
+      "filename": "killyleagh-castle.jpg",
+      "url": "https://www.hj-oboyle.co.uk/image/projects/04e6021.jpg",
+      "source_page": "https://www.hj-oboyle.co.uk/Project-gallery.html?catID=6",
+      "caption": "Killyleagh Castle \u2014 Rowan-Hamilton Family",
+      "dimensions": [
+        900,
+        600
+      ],
+      "rights": "Publicly displayed on business website; ownership/licence not independently verified. Reused for unsolicited design demonstration only; business approval or replacement needed for production."
+    }
+  ]
+}
