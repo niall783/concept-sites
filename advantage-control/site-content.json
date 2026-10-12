@@ -1,0 +1,517 @@
+{
+  "settings": {
+    "mark": "AC",
+    "descriptor": "Motors \u00b7 Drives \u00b7 Technical support",
+    "eyebrow": "INDUSTRIAL CONTROL \u00b7 DOWNPATRICK",
+    "headline": "Keep your process<br>moving forward.",
+    "intro": "Electric motors, variable speed drives and technical support. From specification and commissioning to ongoing care.",
+    "primary": "Discuss your application",
+    "proof": [
+      [
+        "Motors & drives",
+        "Supply and application support"
+      ],
+      [
+        "Since 2007",
+        "Based in Downpatrick"
+      ],
+      [
+        "Lifecycle support",
+        "Installation through maintenance"
+      ]
+    ],
+    "storyTitle": "Technical knowledge.<br>Practical support.",
+    "rangeTitle": "Support for every stage<br>of the drive lifecycle.",
+    "galleryTitle": "Inside the application.",
+    "aboutTitle": "A practical partner<br>for industrial control.",
+    "name": "Advantage Control Ltd",
+    "phone": "028 4461 3782",
+    "tel": "+442844613782",
+    "email": null,
+    "address": "Units 3 & 4, 46 Belfast Road, Downpatrick, County Down, BT30 9UP",
+    "hours": "Monday\u2013Friday, 9am\u20135pm",
+    "slug": "advantage-control",
+    "source": "https://www.advantagecontrol.co.uk/",
+    "about": "Established in 2007 and based in Downpatrick, Advantage Control supplies electric motors, variable speed drives and motor control solutions across Ireland and the UK. Its offer brings together specification, installation, commissioning, technical support and maintenance.",
+    "services": [
+      {
+        "title": "Drive Services",
+        "slug": "drive-services",
+        "short": "Support throughout the drive lifecycle.",
+        "body": "From initial specification to ongoing maintenance, Advantage Control supports variable speed drive systems across industrial applications. Discuss installation, repair, replacement and support options with the team.",
+        "points": [
+          "Specification and selection",
+          "Installation and commissioning",
+          "Maintenance and repair"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/drive-services/",
+        "image": "076-Serviceoptions-header.jpg"
+      },
+      {
+        "title": "Installation & Commissioning",
+        "slug": "drive-installation-commissioning",
+        "short": "Set up for the needs of your process.",
+        "body": "The team installs and commissions variable speed drives for applications including water and manufacturing. Each installation begins with understanding the process and setting up the drive to suit the application.",
+        "points": [
+          "New installations",
+          "Replacement drives",
+          "Application programming"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/drive-installation-commissioning/",
+        "image": "088-hvac-install-photo-002.jpg"
+      },
+      {
+        "title": "On Site Installation",
+        "slug": "on-site-installation",
+        "short": "Practical support at your facility.",
+        "body": "Advantage Control installs motor control and distribution equipment on site. The team can assess existing equipment and arrange an appropriate replacement, installation and commissioning approach.",
+        "points": [
+          "Site assessment",
+          "Motor control equipment",
+          "Drive replacements"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/on-site-installation/",
+        "image": "076-Serviceoptions-header.jpg"
+      },
+      {
+        "title": "Drive Upgrade & Replacement",
+        "slug": "drive-upgrade-replacement",
+        "short": "A planned route beyond ageing equipment.",
+        "body": "Upgrade and replacement support helps customers move beyond failed or obsolete drive equipment. The team can advise on suitable alternatives and coordinate installation around the application.",
+        "points": [
+          "Legacy systems",
+          "Replacement selection",
+          "Hardware recycling options"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/drive-upgrade-replacement/",
+        "image": "066-drive-upgrade-2.jpg"
+      },
+      {
+        "title": "DriveCare & Service Agreements",
+        "slug": "drivecare",
+        "short": "Understand and protect your drive population.",
+        "body": "DriveCare and service agreements bring together equipment records, parameter information and ongoing support. Discuss a plan shaped around the equipment on your site and its lifecycle.",
+        "points": [
+          "Drive records and parameters",
+          "Lifecycle assessment",
+          "Tailored service support"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/drivecare/",
+        "image": "076-Serviceoptions-header.jpg"
+      },
+      {
+        "title": "Preventative Maintenance",
+        "slug": "preventative-maintenance",
+        "short": "Plan maintenance around critical equipment.",
+        "body": "On-site diagnostics and scheduled maintenance help identify issues before they interrupt production. Advantage Control can discuss a maintenance schedule tailored to your drive systems.",
+        "points": [
+          "Diagnostics",
+          "Scheduled inspections",
+          "Maintenance planning"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/preventative-maintenance/",
+        "image": "079-service-and-repair.jpg"
+      },
+      {
+        "title": "DriveHire",
+        "slug": "drivehire",
+        "short": "A flexible alternative to buying outright.",
+        "body": "DriveHire provides variable speed drive and enclosed softstarter hire across Ireland. The team can discuss whether a hire arrangement or a trial is suitable for your application.",
+        "points": [
+          "Temporary drive requirements",
+          "Trial applications",
+          "Hire arrangements"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/drivehire/",
+        "image": "066-drive-upgrade-2.jpg"
+      },
+      {
+        "title": "Drive Training",
+        "slug": "drive-training",
+        "short": "Build practical confidence with variable speed drives.",
+        "body": "Training is available at the Downpatrick facility or on site. Sessions cover drive technology and applications with practical exercises using a drive, motor and simulated control panel.",
+        "points": [
+          "Classroom or on-site sessions",
+          "Practical exercises",
+          "Application familiarisation"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/drive-training/",
+        "image": "076-Serviceoptions-header.jpg"
+      },
+      {
+        "title": "Motor Services",
+        "slug": "motor-services",
+        "short": "Workshop support for AC and DC motors.",
+        "body": "Motor services include rewinds, mechanical overhaul, pump testing and repair, balancing and gearbox work. A call and collect service is published for customers throughout Ireland.",
+        "points": [
+          "Motor rewinds and overhaul",
+          "Pump testing and repair",
+          "Balancing and gearbox work"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/motor-services/",
+        "image": "013-Electric-motors-in-factory.jpg"
+      },
+      {
+        "title": "DC to AC Conversion",
+        "slug": "dc-to-ac",
+        "short": "Assess a modern alternative for your existing process.",
+        "body": "Advantage Control helps customers assess conversion from DC equipment to AC motors and variable speed drives. Suitability, operating requirements and potential efficiency improvements are considered for the application.",
+        "points": [
+          "Application assessment",
+          "Motor and drive selection",
+          "Conversion planning"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/dc-to-ac/",
+        "image": "017-ABB-drive-and-motor.jpg"
+      },
+      {
+        "title": "DC & AC Motor Repairs",
+        "slug": "dc-and-ac-motor-repairs",
+        "short": "Repair options for ageing or damaged motors.",
+        "body": "The workshop offers electrical and mechanical repair services for AC and DC motors. Customers can discuss collection, testing, rewinding, overhaul and replacement options with the team.",
+        "points": [
+          "Testing and diagnosis",
+          "Rewinds and overhaul",
+          "Collection arrangements"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/dc-and-ac-motor-repairs/",
+        "image": "086-man-working-on-motor-v2.jpg"
+      },
+      {
+        "title": "Test & Inspection",
+        "slug": "test-inspection",
+        "short": "A clearer picture of motor condition.",
+        "body": "Motor testing and inspection are available as part of the service offer. Thermal imaging and diagnostic techniques help assess condition and identify faults.",
+        "points": [
+          "Motor inspection",
+          "Thermal imaging",
+          "Diagnostic assessment"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/test-inspection/",
+        "image": "079-service-and-repair.jpg"
+      },
+      {
+        "title": "In House Solutions",
+        "slug": "in-house-solutions",
+        "short": "Control systems shaped around your process.",
+        "body": "Advantage Control develops in-house motor control and automation solutions with other industry specialists. The work applies drive technology to customers\u2019 process requirements.",
+        "points": [
+          "Motor control",
+          "Automation",
+          "Process-specific solutions"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/in-house-solutions/",
+        "image": "031-machinery-automation.jpg"
+      },
+      {
+        "title": "Advanced Air Damper Support",
+        "slug": "advanced-air-sfd-commissioning-maintenance",
+        "short": "Commissioning and maintenance for damper systems.",
+        "body": "The published service includes commissioning, maintenance and servicing of Advanced Air damper products and related control equipment. Discuss your system and support needs directly with the team.",
+        "points": [
+          "Commissioning",
+          "Servicing",
+          "Damper control equipment"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/advanced-air-sfd-commissioning-maintenance/",
+        "image": "088-hvac-install-photo-002.jpg"
+      },
+      {
+        "title": "NivuFlow",
+        "slug": "service-2",
+        "short": "Pressure and flow control for demanding applications.",
+        "body": "The NivuFlow solution combines drive control and process monitoring for pressure, flow and level applications. The team works with industrial and water utility requirements.",
+        "points": [
+          "Pressure control",
+          "Flow control",
+          "Process monitoring"
+        ],
+        "source": "https://www.advantagecontrol.co.uk/service/service-2/",
+        "image": "092-water-treatment.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "Published HVAC control installation",
+      "image": "088-hvac-install-photo-002.jpg",
+      "alt": "Published HVAC control installation",
+      "category": "Project",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-2"
+    },
+    {
+      "title": "Motor control cabinets",
+      "image": "076-Serviceoptions-header.jpg",
+      "alt": "Motor control cabinets",
+      "category": "Services",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-3"
+    },
+    {
+      "title": "AC electric motors",
+      "image": "032-AC-Motor.jpg",
+      "alt": "AC electric motors",
+      "category": "Products",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-4"
+    },
+    {
+      "title": "T-T Electric motor product",
+      "image": "058-LAKC.jpg",
+      "alt": "T-T Electric motor product",
+      "category": "Products",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-5"
+    },
+    {
+      "title": "Industrial machinery and automation",
+      "image": "031-machinery-automation.jpg",
+      "alt": "Industrial machinery and automation",
+      "category": "Industry",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-6"
+    },
+    {
+      "title": "Quarry application",
+      "image": "090-quarry-header.jpg",
+      "alt": "Quarry application",
+      "category": "Industry",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-7"
+    },
+    {
+      "title": "Water treatment pipework",
+      "image": "092-water-treatment.jpg",
+      "alt": "Water treatment pipework",
+      "category": "Industry",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.advantagecontrol.co.uk/",
+      "slug": "gallery-8"
+    }
+  ],
+  "products": [
+    {
+      "title": "Electric Motors",
+      "slug": "motors",
+      "short": "AC and DC motor options for industrial applications.",
+      "body": "AC and DC motor options for industrial applications. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/motors/",
+      "image": "032-AC-Motor.jpg"
+    },
+    {
+      "title": "T-T Electric",
+      "slug": "product-3",
+      "short": "T-T Electric motor solutions and application support.",
+      "body": "T-T Electric motor solutions and application support. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/product-3/",
+      "image": "058-LAKC.jpg"
+    },
+    {
+      "title": "ABB Motors",
+      "slug": "abb-motors",
+      "short": "ABB motor ranges with support for selection.",
+      "body": "ABB motor ranges with support for selection. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/abb-motors/",
+      "image": "017-ABB-drive-and-motor.jpg"
+    },
+    {
+      "title": "SynRM Packages",
+      "slug": "synrm-packages",
+      "short": "Synchronous reluctance motor and drive packages.",
+      "body": "Synchronous reluctance motor and drive packages. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/synrm-packages/",
+      "image": "017-ABB-drive-and-motor.jpg"
+    },
+    {
+      "title": "AC Motors",
+      "slug": "ac-motors",
+      "short": "AC motor solutions for industrial processes.",
+      "body": "AC motor solutions for industrial processes. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/ac-motors/",
+      "image": "032-AC-Motor.jpg"
+    },
+    {
+      "title": "Motive Motors",
+      "slug": "product-2",
+      "short": "Motive motor ranges for varied applications.",
+      "body": "Motive motor ranges for varied applications. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/product-2/",
+      "image": "049-motive-banner-jpeg-002-.jpg"
+    },
+    {
+      "title": "Variable Speed Drives",
+      "slug": "variable-speed-drives",
+      "short": "Drive selection for control and process requirements.",
+      "body": "Drive selection for control and process requirements. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/variable-speed-drives/",
+      "image": "066-drive-upgrade-2.jpg"
+    },
+    {
+      "title": "ABB HVAC Drives",
+      "slug": "abb-hvac-drives",
+      "short": "Drives for heating, ventilation and air conditioning.",
+      "body": "Drives for heating, ventilation and air conditioning. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/abb-hvac-drives/",
+      "image": "026-buildings.jpg"
+    },
+    {
+      "title": "ABB Water Drives",
+      "slug": "abb-water-drives",
+      "short": "Drive solutions for water applications.",
+      "body": "Drive solutions for water applications. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/abb-water-drives/",
+      "image": "092-water-treatment.jpg"
+    },
+    {
+      "title": "ABB Machinery Drives",
+      "slug": "abb-machinery-drives",
+      "short": "Drives for machinery and automation applications.",
+      "body": "Drives for machinery and automation applications. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/abb-machinery-drives/",
+      "image": "031-machinery-automation.jpg"
+    },
+    {
+      "title": "ABB Industrial Drives",
+      "slug": "abb-industrial-drives",
+      "short": "Drives for demanding industrial processes.",
+      "body": "Drives for demanding industrial processes. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/abb-industrial-drives/",
+      "image": "029-factory-1352544_1920.jpg"
+    },
+    {
+      "title": "General Purpose Drives",
+      "slug": "general-purpose-drives",
+      "short": "Flexible drives for general applications.",
+      "body": "Flexible drives for general applications. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/general-purpose-drives/",
+      "image": "066-drive-upgrade-2.jpg"
+    },
+    {
+      "title": "Nidec Servo Drives",
+      "slug": "servo-drives",
+      "short": "Servo drive options for motion control.",
+      "body": "Servo drive options for motion control. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/servo-drives/",
+      "image": "031-machinery-automation.jpg"
+    },
+    {
+      "title": "Motive Drives",
+      "slug": "motive-drives",
+      "short": "Motive drive solutions and selection support.",
+      "body": "Motive drive solutions and selection support. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/motive-drives/",
+      "image": "049-motive-banner-jpeg-002-.jpg"
+    },
+    {
+      "title": "NivuFlow Energy",
+      "slug": "product-1",
+      "short": "Flow measurement and control solutions.",
+      "body": "Flow measurement and control solutions. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/product-1/",
+      "image": "092-water-treatment.jpg"
+    },
+    {
+      "title": "ABB Power Quality",
+      "slug": "abb-power-quality",
+      "short": "Power quality products and application advice.",
+      "body": "Power quality products and application advice. Contact Advantage Control to discuss your application, the suitable range and current availability. Specific ratings and compatibility should be confirmed for your equipment.",
+      "points": [
+        "Application-led selection",
+        "Technical advice",
+        "Confirm current availability"
+      ],
+      "source": "https://www.advantagecontrol.co.uk/product/abb-power-quality/",
+      "image": "035-Electricity-Pylons.jpg"
+    }
+  ],
+  "sectors": []
+}

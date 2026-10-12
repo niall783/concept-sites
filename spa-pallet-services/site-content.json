@@ -1,0 +1,196 @@
+{
+  "settings": {
+    "mark": "SP",
+    "descriptor": "Pallets \u00b7 Recycling \u00b7 Haulage",
+    "eyebrow": "BALLYNAHINCH \u00b7 NORTHERN IRELAND",
+    "headline": "Keep goods moving.<br>Put pallets to work.",
+    "intro": "Pallet supply, buying and collection, alongside light and heavy haulage throughout Ireland and the UK.",
+    "primary": "Discuss your requirements",
+    "proof": [
+      [
+        "Buy & supply",
+        "New and reconditioned pallets"
+      ],
+      [
+        "Own fleet",
+        "Light and heavy haulage"
+      ],
+      [
+        "Ballynahinch",
+        "A base for collection and delivery"
+      ]
+    ],
+    "storyTitle": "A practical link<br>in your supply chain.",
+    "rangeTitle": "Pallets, collections<br>and the journey ahead.",
+    "galleryTitle": "Built around movement.",
+    "aboutTitle": "Pallets and transport.<br>Working together.",
+    "name": "Spa Pallet Services Ltd",
+    "phone": "028 9756 3990",
+    "tel": "+442897563990",
+    "mobile": "07808 099 588",
+    "mobile_tel": "+447808099588",
+    "email": "info@webuyanypalletsni.co.uk",
+    "address": "41 Guiness Road, Ballynahinch, BT24 8QN",
+    "company_number": "NI037444",
+    "facebook": "https://facebook.com/profile.php?id=100004309338293",
+    "source": "https://webuyanypalletsni.co.uk/",
+    "slug": "spa-pallet-services",
+    "about": "A family business founded by John and Caroline McKay in 1997. From its Ballynahinch facility, Spa Pallet Services supports businesses with pallet supply, collection, refurbishment and recycling, alongside haulage across Ireland and the UK.",
+    "services": [
+      {
+        "title": "Buy pallets",
+        "slug": "buy-pallets",
+        "short": "New and reconditioned pallets for your business.",
+        "body": "Pallet supply for manufacturing, warehousing and distribution. Tell the team the size, grade, quantity and delivery location you need.",
+        "points": [
+          "New and used timber pallets",
+          "Standard UK and Euro sizes",
+          "Perimeter and lightweight options",
+          "Heat-treated pallets available on request"
+        ],
+        "source": "https://webuyanypalletsni.co.uk/pallets-for-sale-northern-ireland.html",
+        "image": "reconditioned-pallets-ni.png"
+      },
+      {
+        "title": "Sell and recycle pallets",
+        "slug": "sell-pallets",
+        "short": "Turn surplus pallets into usable stock.",
+        "body": "Collection and purchase of surplus, redundant and non-returnable pallets. One-off and regular clearances are offered throughout Northern Ireland and Ireland.",
+        "points": [
+          "Good quality and repairable pallets",
+          "Standard UK and Euro sizes",
+          "Small and large quantities",
+          "Collection and grading"
+        ],
+        "source": "https://webuyanypalletsni.co.uk/pallets-buy-northern-ireland.html",
+        "image": "pallets3.jpg"
+      },
+      {
+        "title": "Pallet collars",
+        "slug": "pallet-collars",
+        "short": "New and used collars for secure storage.",
+        "body": "Wooden pallet collars for warehousing, factory handling and transport. Discuss size, condition and quantity with the team.",
+        "points": [
+          "1200 \u00d7 1000mm options",
+          "1200 \u00d7 800mm options",
+          "New and used",
+          "Heat-treated options advertised"
+        ],
+        "source": "https://webuyanypalletsni.co.uk/pallets-collars.html",
+        "image": "Pallet-collars.jpg"
+      },
+      {
+        "title": "Pallet furniture",
+        "slug": "pallet-furniture",
+        "short": "Seating and furniture made from timber pallets.",
+        "body": "Pallet furniture available by quotation, including seating, tables and customised sets. Discuss the arrangement and finish you need.",
+        "points": [
+          "Sofas and seating",
+          "Tables",
+          "Bar stools",
+          "Furniture sets"
+        ],
+        "source": "https://webuyanypalletsni.co.uk/pallet-furniture.html",
+        "image": "TYPE.jpg"
+      },
+      {
+        "title": "Haulage",
+        "slug": "haulage",
+        "short": "Commercial transport across Ireland and the UK.",
+        "body": "Haulage services using the company\u2019s own fleet of articulated and rigid vehicles with curtainside trailers. Ask about your load, collection and delivery requirements.",
+        "points": [
+          "Commercial transport",
+          "Specialist deliveries",
+          "Warehousing and distribution",
+          "Ireland and UK coverage"
+        ],
+        "source": "https://webuyanypalletsni.co.uk/haulage-northern-ireland.html",
+        "image": "haulage-northern-ireland-sm.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "Reconditioned timber pallets",
+      "image": "reconditioned-pallets-ni.png",
+      "alt": "Reconditioned timber pallets",
+      "category": "Pallets",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-2"
+    },
+    {
+      "title": "Perimeter base pallet",
+      "image": "perimeter-pallets-ni.png",
+      "alt": "Perimeter base pallet",
+      "category": "Pallets",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-3"
+    },
+    {
+      "title": "Lightweight timber pallets",
+      "image": "lightweight-pallets-ni.png",
+      "alt": "Lightweight timber pallets",
+      "category": "Pallets",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-4"
+    },
+    {
+      "title": "Heat-treated timber pallet",
+      "image": "SPM-15-Heat-Treated-Pallets.png",
+      "alt": "Heat-treated timber pallet",
+      "category": "Pallets",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-5"
+    },
+    {
+      "title": "Timber pallet collars",
+      "image": "Pallet-collars.jpg",
+      "alt": "Timber pallet collars",
+      "category": "Collars",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-6"
+    },
+    {
+      "title": "Pallet furniture under construction",
+      "image": "TYPE.jpg",
+      "alt": "Pallet furniture under construction",
+      "category": "Furniture",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-7"
+    },
+    {
+      "title": "Pallet furniture examples from Spa Pallet Services",
+      "image": "furniture-new.jpg",
+      "alt": "Pallet furniture examples from Spa Pallet Services",
+      "category": "Furniture",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-8"
+    },
+    {
+      "title": "Spa Pallet Services branded curtainside trailer",
+      "image": "haulage-northern-ireland-sm.jpg",
+      "alt": "Spa Pallet Services branded curtainside trailer",
+      "category": "Haulage",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://webuyanypalletsni.co.uk/",
+      "slug": "gallery-9"
+    }
+  ],
+  "products": [],
+  "sectors": []
+}

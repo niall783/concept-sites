@@ -1,0 +1,292 @@
+{
+  "settings": {
+    "mark": "J&N",
+    "descriptor": "Joinery & project delivery",
+    "eyebrow": "KILKEEL \u00b7 IRELAND & THE UK",
+    "headline": "Considered craft.<br>Lasting places.",
+    "intro": "Joinery contracting and project management for commercial spaces, public buildings and homes.",
+    "primary": "Discuss your project",
+    "proof": [
+      [
+        "Since 1997",
+        "Established as a partnership"
+      ],
+      [
+        "Commercial & public",
+        "A varied project portfolio"
+      ],
+      [
+        "Kilkeel",
+        "Based in County Down"
+      ]
+    ],
+    "storyTitle": "From the detail.<br>To the whole building.",
+    "rangeTitle": "The craft behind<br>the finished space.",
+    "galleryTitle": "Places shaped<br>by practical craft.",
+    "aboutTitle": "Local roots.<br>A wider perspective.",
+    "name": "J & N Joinery Limited",
+    "phone": "028 4176 9219",
+    "tel": "+442841769219",
+    "email": "info@jandnjoinery.com",
+    "address": "9 Hazelbank Drive, Kilkeel, Co Down BT34 4WG",
+    "mobile": "07895 273033",
+    "facebook": "https://www.facebook.com/jandnjoinery/",
+    "slug": "j-and-n-joinery",
+    "source": "https://jandnjoinery.com/",
+    "about": "Established as a partnership in 1997, J & N Joinery became incorporated in 2009. Based in Kilkeel, County Down, its published portfolio covers projects across Northern Ireland, Ireland and the UK. The team\u2019s stated capabilities include roofing, cladding panel installation, kitchen and shop fitting, glass and solar panel installation, general joinery, and project management. It works across commercial and public-sector construction, bespoke homes and volume residential developments.",
+    "services": [
+      {
+        "name": "Joinery Contractors",
+        "slug": "joinery-contractors",
+        "summary": "Joinery contracting for corporate clients and private individuals, working alongside clients and architects on materials and design details.",
+        "capabilities": [
+          "Roofing",
+          "Cladding panel installation",
+          "Kitchen and shop fitting",
+          "Glass and solar panel installation",
+          "General joinery"
+        ],
+        "title": "Joinery Contractors",
+        "short": "Joinery contracting for corporate clients and private individuals, working alongside clients and architects on materials and design details.",
+        "body": "Joinery contracting for corporate clients and private individuals, working alongside clients and architects on materials and design details.",
+        "points": [
+          "Roofing",
+          "Cladding panel installation",
+          "Kitchen and shop fitting",
+          "Glass and solar panel installation",
+          "General joinery"
+        ],
+        "source": "https://jandnjoinery.com/2011-10-03-00-40-20/joinery-contractors",
+        "image": "01_joinery.jpg"
+      },
+      {
+        "name": "Project Management",
+        "slug": "project-management",
+        "summary": "Joinery delivery supported by a charge hand assigned to contracts, coordinating quality and key decisions throughout the work.",
+        "title": "Project Management",
+        "short": "Joinery delivery supported by a charge hand assigned to contracts, coordinating quality and key decisions throughout the work.",
+        "body": "Joinery delivery supported by a charge hand assigned to contracts, coordinating quality and key decisions throughout the work.",
+        "points": [],
+        "source": "https://jandnjoinery.com/2011-10-03-00-40-20/project-management",
+        "image": "02_project_m.jpg"
+      },
+      {
+        "name": "Health and Safety",
+        "slug": "health-and-safety",
+        "summary": "Trained joiners, with risk assessments and method statements prepared for new contracts.",
+        "title": "Health and Safety",
+        "short": "Trained joiners, with risk assessments and method statements prepared for new contracts.",
+        "body": "Trained joiners, with risk assessments and method statements prepared for new contracts.",
+        "points": [],
+        "source": "https://jandnjoinery.com/2011-10-03-00-40-20/health-and-safety",
+        "image": "_dsc0462.jpg"
+      },
+      {
+        "name": "Quality Control",
+        "slug": "quality-control",
+        "summary": "Regular site checks, oversight of joinery practices and charge-hand supervision on major jobs.",
+        "title": "Quality Control",
+        "short": "Regular site checks, oversight of joinery practices and charge-hand supervision on major jobs.",
+        "body": "Regular site checks, oversight of joinery practices and charge-hand supervision on major jobs.",
+        "points": [],
+        "source": "https://jandnjoinery.com/2011-10-03-00-40-20/quality-control",
+        "image": "04_qc.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "St Bronaghs Primary School",
+      "image": "st-bronaghs-warrenpoint6.jpg",
+      "alt": "St Bronaghs Primary School \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Rostrevor, County Down",
+      "body": "A seven-classroom traditional school build with youth club, sports hall, community and games room facilities. Listed in the official project archive in association with Ganson.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-st-bronaghs-primary-school-1"
+    },
+    {
+      "title": "Olympic Village retail fit-out",
+      "image": "perfume-shop-olympic-village.jpg",
+      "alt": "Olympic Village retail fit-out \u2014 historical portfolio photograph",
+      "category": "Retail",
+      "short": "London",
+      "body": "Fit-out of Superdrug pharmacy and The Perfume Shop outlet, working on behalf of Ramsay Fit & Build Ltd.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-olympic-village-retail-fit-out-2"
+    },
+    {
+      "title": "Queens University School of Architecture",
+      "image": "02_night-qub.jpg",
+      "alt": "Queens University School of Architecture \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Belfast",
+      "body": "Installation of a high-performance Trespa exterior cladding system with secret and rivet-fixed panels to an aluminium railing system, on behalf of TAL Ltd.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-queens-university-school-of-architecture-3"
+    },
+    {
+      "title": "St Marys on the Hill",
+      "image": "st-marys-finished.jpg",
+      "alt": "St Marys on the Hill \u2014 historical portfolio photograph",
+      "category": "Community",
+      "short": "Glengormley",
+      "body": "Joinery work for the church hall and nursery extension on behalf of TAL Ltd, incorporating a corkscrew-style roof.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-st-marys-on-the-hill-4"
+    },
+    {
+      "title": "Mersey Street housing",
+      "image": "mersery-street-view2.jpg",
+      "alt": "Mersey Street housing \u2014 historical portfolio photograph",
+      "category": "Residential",
+      "short": "East Belfast",
+      "body": "Work for TAL Ltd on the Connswater Homes development, described in the official archive as 88 houses and 8 apartments over a 20-month period.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-mersey-street-housing-5"
+    },
+    {
+      "title": "Castlewellan Road social housing",
+      "image": "",
+      "alt": "Castlewellan Road social housing \u2014 historical portfolio photograph",
+      "category": "Residential",
+      "short": "Newcastle, County Down",
+      "body": "Main joinery contractor on a development of 130 homes for O\u2019Hare & McGovern.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-castlewellan-road-social-housing-6"
+    },
+    {
+      "title": "Springvale Training Centre",
+      "image": "",
+      "alt": "Springvale Training Centre \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Belfast",
+      "body": "Joinery works for Mascott, including roof joisting, structural studding and complete joinery fit-out.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-springvale-training-centre-7"
+    },
+    {
+      "title": "Simon Building, Manchester University",
+      "image": "",
+      "alt": "Simon Building, Manchester University \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Manchester",
+      "body": "Support for Graham Construction on second-fix works during lecture-theatre fit-out, recorded in the archive for 2013.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-simon-building-manchester-university-8"
+    },
+    {
+      "title": "Scoil Chormaic",
+      "image": "",
+      "alt": "Scoil Chormaic \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Stephenstown, Balbriggan, County Dublin",
+      "body": "A two-storey primary school with accommodation for 750 pupils, special needs unit, general-purpose hall and ancillary facilities, listed in the archive in association with Ganson.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-scoil-chormaic-9"
+    },
+    {
+      "title": "SOAS Senate House redevelopment",
+      "image": "",
+      "alt": "SOAS Senate House redevelopment \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "London",
+      "body": "The official archive describes the campus enhancement project led by Graham, creating modern teaching and learning spaces in Senate House.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-soas-senate-house-redevelopment-10"
+    },
+    {
+      "title": "Willow Dene SEN Primary School",
+      "image": "",
+      "alt": "Willow Dene SEN Primary School \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Plumstead, London",
+      "body": "The archive records planned involvement in trimming out new buildings and refurbishing existing buildings for Graham. It is a historical project account, not a verified completion statement.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-willow-dene-sen-primary-school-11"
+    },
+    {
+      "title": "Ordnance Unity Centre",
+      "image": "",
+      "alt": "Ordnance Unity Centre \u2014 historical portfolio photograph",
+      "category": "Community",
+      "short": "Enfield, London",
+      "body": "Design and construction of a community hub including library, GP surgery, NHS dentist and community hall, listed with Graham of Dromore.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-ordnance-unity-centre-12"
+    },
+    {
+      "title": "Realt na Mara schools",
+      "image": "",
+      "alt": "Realt na Mara schools \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Donacarney, Ireland",
+      "body": "Two new national school buildings, listed in the source with Glasgiven Contracts and a 2014 target completion date.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-realt-na-mara-schools-13"
+    },
+    {
+      "title": "Magherafelt Primary School",
+      "image": "",
+      "alt": "Magherafelt Primary School \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Magherafelt, Northern Ireland",
+      "body": "A new primary and nursery school with Glasgiven Contracts, on the former RIR site on Station Road.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-magherafelt-primary-school-14"
+    },
+    {
+      "title": "Newcastle Primary School",
+      "image": "",
+      "alt": "Newcastle Primary School \u2014 historical portfolio photograph",
+      "category": "Education",
+      "short": "Beechfield Park, Newcastle",
+      "body": "A primary school and nursery unit carried out on behalf of Glasgiven Contracts, described as purpose-built educational facilities.",
+      "source": "https://jandnjoinery.com/recent-projects",
+      "slug": "project-newcastle-primary-school-15"
+    }
+  ],
+  "products": [],
+  "sectors": [
+    {
+      "name": "Public Sector",
+      "summary": "Hospitals, churches, schools, universities and community centres.",
+      "title": "Public Sector",
+      "slug": "sector-public-sector",
+      "short": "Hospitals, churches, schools, universities and community centres.",
+      "body": "Hospitals, churches, schools, universities and community centres.",
+      "points": [],
+      "image": ""
+    },
+    {
+      "name": "Commercial and Industrial",
+      "summary": "Office and commercial units, plus fit-outs for retail outlets.",
+      "title": "Commercial and Industrial",
+      "slug": "sector-commercial-and-industrial",
+      "short": "Office and commercial units, plus fit-outs for retail outlets.",
+      "body": "Office and commercial units, plus fit-outs for retail outlets.",
+      "points": [],
+      "image": ""
+    },
+    {
+      "name": "Residential Developments",
+      "summary": "Social housing, apartments, nursing homes and volume housing.",
+      "title": "Residential Developments",
+      "slug": "sector-residential-developments",
+      "short": "Social housing, apartments, nursing homes and volume housing.",
+      "body": "Social housing, apartments, nursing homes and volume housing.",
+      "points": [],
+      "image": ""
+    },
+    {
+      "name": "Private Homes",
+      "summary": "One-off new builds, extensions and bespoke developments.",
+      "title": "Private Homes",
+      "slug": "sector-private-homes",
+      "short": "One-off new builds, extensions and bespoke developments.",
+      "body": "One-off new builds, extensions and bespoke developments.",
+      "points": [],
+      "image": ""
+    }
+  ]
+}

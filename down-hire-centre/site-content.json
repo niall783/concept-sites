@@ -1,0 +1,246 @@
+{
+  "settings": {
+    "mark": "DH",
+    "descriptor": "Plant \u00b7 Tools \u00b7 Equipment",
+    "eyebrow": "DOWNPATRICK \u00b7 COUNTY DOWN",
+    "headline": "The right equipment.<br>For the job ahead.",
+    "intro": "Plant, tools and garden equipment for short or long-term hire, with delivery available across County Down.",
+    "primary": "Enquire about hire",
+    "proof": [
+      [
+        "25+ years",
+        "Experience stated by the business"
+      ],
+      [
+        "Short & long term",
+        "Flexible hire enquiries"
+      ],
+      [
+        "County Down",
+        "Local equipment and delivery"
+      ]
+    ],
+    "storyTitle": "From the first dig.<br>To the final detail.",
+    "rangeTitle": "Find your starting point.<br>Get the job moving.",
+    "galleryTitle": "Equipment for real work.",
+    "aboutTitle": "Independent hire.<br>Local knowledge.",
+    "name": "Down Hire Centre Ltd",
+    "phone": "028 4461 6767",
+    "tel": "+442844616767",
+    "email": "kenturley@btinternet.com",
+    "address": "8 Cloonagh Road, Downpatrick, County Down, BT30 6LJ",
+    "hours": "Monday\u2013Friday 08:00\u201317:30; Saturday and Sunday closed",
+    "registered_address": "3 Cloonagh Road, Downpatrick, Co Down, BT30 6LJ",
+    "company_number": "NI064677",
+    "facebook": "https://facebook.com/Down-Hire-Centre-704024269718905/",
+    "source": "https://www.downhirecentre-codown.co.uk/",
+    "slug": "down-hire-centre",
+    "about": "An independent equipment hire business established by Ken Turley, serving Downpatrick and County Down. The existing website reports over 25 years of experience and offers short and long term hire for construction, agriculture, garden and home projects. Equipment advice and delivery are available.",
+    "services": [
+      {
+        "title": "Plant hire",
+        "slug": "plant-hire",
+        "short": "Equipment for site work, groundwork and construction.",
+        "body": "Excavators, site dumpers and supporting equipment for projects across County Down. Ask the team about your site, access and hire period to choose suitable equipment.",
+        "points": [
+          "Excavators",
+          "Dumpers",
+          "Cherry pickers and scissor lifts",
+          "Compressors",
+          "Teleporters",
+          "Mixers"
+        ],
+        "source": "https://www.downhirecentre-codown.co.uk/plant-hire",
+        "image": "photo-10.jpg"
+      },
+      {
+        "title": "Garden equipment",
+        "slug": "garden-equipment",
+        "short": "Professional equipment for garden and landscaping work.",
+        "body": "Garden equipment hire for residential and commercial customers, with advice on choosing tools and a delivery service across County Down.",
+        "points": [
+          "Mowers and rotavators",
+          "Cultivators",
+          "Stump grinders",
+          "Land levellers and stone rakes",
+          "Hedge trimmers",
+          "Blowers and saws"
+        ],
+        "source": "https://www.downhirecentre-codown.co.uk/garden-equipment",
+        "image": "photo-43.jpg"
+      },
+      {
+        "title": "Tool hire",
+        "slug": "tool-hire",
+        "short": "Tools for home improvements and commercial projects.",
+        "body": "A choice of power tools for short and long term hire. Discuss the job with the team for equipment advice and a quotation.",
+        "points": [
+          "Drills",
+          "Grinders",
+          "Sanders",
+          "Saws",
+          "Gardening tools"
+        ],
+        "source": "https://www.downhirecentre-codown.co.uk/tool-hire",
+        "image": "photo-21.png"
+      },
+      {
+        "title": "Storage containers",
+        "slug": "storage-containers",
+        "short": "Container hire, sales and transport.",
+        "body": "The existing website offers storage container hire, sales and transport. Contact the team to discuss your storage needs, location and delivery access.",
+        "points": [
+          "Hire",
+          "Sales",
+          "Transport arranged"
+        ],
+        "source": "https://www.downhirecentre-codown.co.uk/",
+        "image": "photo-0.jpg"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "title": "Down Hire Centre truck carrying plant equipment",
+      "image": "photo-64.jpg",
+      "alt": "Down Hire Centre truck carrying plant equipment",
+      "category": "Delivery",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-1"
+    },
+    {
+      "title": "Excavators in the Down Hire Centre yard",
+      "image": "photo-10.jpg",
+      "alt": "Excavators in the Down Hire Centre yard",
+      "category": "Plant",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-2"
+    },
+    {
+      "title": "Excavator available through Down Hire Centre",
+      "image": "photo-12.jpg",
+      "alt": "Excavator available through Down Hire Centre",
+      "category": "Plant",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-3"
+    },
+    {
+      "title": "Site dumper photographed in the hire yard",
+      "image": "photo-24.jpg",
+      "alt": "Site dumper photographed in the hire yard",
+      "category": "Plant",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-4"
+    },
+    {
+      "title": "Scissor lift in an outdoor work area",
+      "image": "photo-41.jpg",
+      "alt": "Scissor lift in an outdoor work area",
+      "category": "Access",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-5"
+    },
+    {
+      "title": "Telehandler with an elevated boom",
+      "image": "photo-42.jpg",
+      "alt": "Telehandler with an elevated boom",
+      "category": "Plant",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-6"
+    },
+    {
+      "title": "Tractor and garden maintenance equipment",
+      "image": "photo-43.jpg",
+      "alt": "Tractor and garden maintenance equipment",
+      "category": "Garden",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-7"
+    },
+    {
+      "title": "Tracked wood chipper",
+      "image": "photo-44.jpg",
+      "alt": "Tracked wood chipper",
+      "category": "Garden",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-8"
+    },
+    {
+      "title": "Rotavator product photograph",
+      "image": "photo-52.jpg",
+      "alt": "Rotavator product photograph",
+      "category": "Garden",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-9"
+    },
+    {
+      "title": "Ride-on mower product photograph",
+      "image": "photo-53.jpg",
+      "alt": "Ride-on mower product photograph",
+      "category": "Garden",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-10"
+    },
+    {
+      "title": "Portable heater product photograph",
+      "image": "photo-46.jpg",
+      "alt": "Portable heater product photograph",
+      "category": "Tools",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-11"
+    },
+    {
+      "title": "Floor sander product photograph",
+      "image": "photo-21.png",
+      "alt": "Floor sander product photograph",
+      "category": "Tools",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-12"
+    },
+    {
+      "title": "Open storage container",
+      "image": "photo-0.jpg",
+      "alt": "Open storage container",
+      "category": "Containers",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-13"
+    },
+    {
+      "title": "Down Hire Centre branded vehicles",
+      "image": "photo-3.png",
+      "alt": "Down Hire Centre branded vehicles",
+      "category": "About",
+      "short": "From the existing business website",
+      "body": "A photograph featured on the existing business website. Contact the team to discuss the requirements of your own project.",
+      "source": "https://www.downhirecentre-codown.co.uk/",
+      "slug": "gallery-14"
+    }
+  ],
+  "products": [],
+  "sectors": []
+}
